@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="sk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>H2O Systems</title>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <script defer src="script.js"></script>
+</head>
+<body>
+    <!-- Navbar -->
+    <nav class="navbar">
+        <div class="logo">
+            <a href="./index.html">
+                <img src="images/logo.png" alt="logo">
+            </a>
+        </div>
+        <ul class="nav-links">
+            <li><a data-translate="link1" href="#about">O nás</a></li>
+            <li><a data-translate="link2" href="#products">Produkty a Služby</a></li>
+            <li><a data-translate="link3" href="#references">Referencie</a></li>
+        <div class="language-select">
+    <div class="custom-select">
+        <div class="select-selected"><img src="flags/sk.png" alt="SK"></div>
+        <div class="select-items select-hide">
+            <div data-value="sk" data-img-src="flags/sk.png"><img src="flags/sk.png" alt="SK"> Slovenčina</div>
+            <div data-value="cz" data-img-src="flags/cz.webp"><img src="flags/cz.webp" alt="CZ"> Čeština</div>
+            <div data-value="de" data-img-src="flags/de.png"><img src="flags/de.png" alt="DE"> Deutsch</div>
+            <div data-value="en" data-img-src="flags/en.png"><img src="flags/en.png" alt="EN"> English</div>
+        </div>
+    </div>
+</div>
+        </ul>
+       
+        <div class="hamburger">
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+<section class="hero">
+    <div class="hero-content">
+       <h1 data-translate="hero-title">H&nbsp;&nbsp;O Systems</h1>
+
+        <p data-translate="hero-description">Vaša cesta k čistej vode</p>
+        <button data-translate="hero-button" onclick="location.href='#about'">Kto sme?</button>
+    </div>
+</section>
+
+<!-- About Section -->
+<section id="about" class="about">
+    <h2 data-translate="about-title">O nás</h2>
+    <div class="about-flex">
+        <div>
+            <img src="images/logo.png" alt="logo">
+        </div>
+        <div class="">
+            <p data-translate="about-description-1">H2O Systems je lídrom v oblasti vodovodných riešení. Sme inovatívna spoločnosť zameraná na poskytovanie udržateľných a efektívnych riešení pre všetky vaše vodovodné potreby.</p>
+            <p data-translate="about-description-2">Naša misia je zlepšiť prístup k čistej vode pre všetkých, či už ide o domácnosti, podniky alebo veľké priemyselné projekty.</p>
+            <p data-translate="about-description-3">Sme hrdí na naše odborné znalosti, inovatívne technológie a individuálny prístup k našim zákazníkom.</p>
+        </div>
+    </div>
+</section>
+
+<!-- Products and Services Section -->
+<section id="products" class="products">
+    <h2 data-translate="products-title">Produkty a Služby</h2>
+    <div class="product-list">
+        <div class="product-item">
+            <h3 data-translate="products-installation-title">Inštalácia Vodovodných Potrubí</h3>
+            <p data-translate="products-installation-description">Poskytujeme komplexné služby inštalácie vodovodných potrubí pre nové stavby, renovácie a rozšírenia.</p>
+        </div>
+        <div class="product-item">
+            <h3 data-translate="products-maintenance-title">Údržba a Opravy</h3>
+            <p data-translate="products-maintenance-description">Naše tímy sú pripravené na rýchle a efektívne riešenie akýchkoľvek problémov s vodovodnými potrubiami, aby ste mali vždy prístup k čistej vode.</p>
+        </div>
+        <div class="product-item">
+            <h3 data-translate="products-advice-title">Poradenstvo a Dizajn</h3>
+            <p data-translate="products-advice-description">Náš tím odborníkov vám pomôže s návrhom a implementáciou najlepších vodovodných riešení, ktoré vyhovujú vašim potrebám a rozpočtu.</p>
+        </div>
+    </div>
+</section>
+
+<!-- References Section -->
+<section id="references" class="references">
+    <h2 data-translate="references-title">Referencie</h2>
+    <div class="reference-list">
+        <div class="reference-item">
+            <img src="images/person1.webp" alt="Ján Novák">
+            <p data-translate="reference1-text">"Spoločnosť H2O Systems nám poskytla výnimočnú službu pri inštalácii vodovodného systému v našom novom dome. Odporúčame ich každému."</p>
+            <cite data-translate="reference1-cite">- Ján Novák, súkromný zákazník</cite>
+        </div>
+        <div class="reference-item">
+            <img src="images/person2.jpg" alt="AquaCorp">
+            <p data-translate="reference2-text">"S H2O Systems spolupracujeme už niekoľko rokov. Vždy sa môžeme spoľahnúť na ich odbornosť a spoľahlivosť."</p>
+            <cite data-translate="reference2-cite">- Spoločnosť AquaCorp</cite>
+        </div>
+        <div class="reference-item">
+            <img src="images/person3.png" alt="Martin Richter">
+            <p data-translate="reference3-text">"Riešenia od H2O Systems nám pomohli výrazne zlepšiť naše výrobné procesy. Ich prístup bol profesionálny a efektívny."</p>
+            <cite data-translate="reference3-cite">- Martin Richter, Priemyselný klient</cite>
+        </div>
+    </div>
+</section>
+
+
+    
+    <!-- Footer -->
+    <footer class="footer">
+        <img class="wave" src="images/wave.png" alt="wave">
+        <p>&copy; 2024 H2O Systems. Všetky práva vyhradené.</p>
+    </footer>
+</body>
+</html>
