@@ -3,10 +3,12 @@ const translations = {
     link1: "Kto Sme?",
     link2: "Produkty a Služby",
     link3: "Referencie",
-    "hero-title": "H&nbsp;&nbsp;O Systems",
+
     "hero-description": "Vaša cesta k čistej vode",
     "hero-button": "Kto Sme?",
     "about-title": "O nás",
+    quote:
+      "&quot;Voda je základným prvkom života, ktorý si zaslúži našu pozornosť a starostlivosť.&quot;",
     "about-description-1":
       "H2O Systems je lídrom v oblasti vodovodných riešení. Sme inovatívna spoločnosť zameraná na poskytovanie udržateľných a efektívnych riešení pre všetky vaše vodovodné potreby.",
     "about-description-2":
@@ -33,15 +35,18 @@ const translations = {
     "reference3-text":
       "&quot;S H2O Systems spolupracujeme už niekoľko rokov. Vždy sa môžeme spoľahnúť na ich odbornosť a spoľahlivosť.&quot;",
     "reference3-cite": "- Martin Richter, Priemyselný klient",
+    "footer-prava": "© 2024 H2O Systems. Všetky práva vyhradené.",
   },
   de: {
     link1: "Wer sind wir?",
     link2: "Produkte und Dienstleistungen",
     link3: "Referenzen",
-    "hero-title": "H&nbsp;&nbsp;O Systems",
+
     "hero-description": "Ihr Weg zu sauberem Wasser",
     "hero-button": "Wer sind wir?",
     "about-title": "Über uns",
+    quote:
+      "&quot;Wasser ist ein grundlegendes Element des Lebens, das unsere Aufmerksamkeit und Fürsorge verdient.&quot;",
     "about-description-1":
       "H2O Systems ist ein Marktführer in der Wassersystemlösungen. Wir sind eine innovative Firma, die nachhaltige und effiziente Lösungen für all Ihre Wasserbedürfnisse bietet.",
     "about-description-2":
@@ -68,15 +73,18 @@ const translations = {
     "reference3-text":
       "&quot;Lösungen von H2O Systems haben uns geholfen, unsere Produktionsprozesse erheblich zu verbessern. Ihr Ansatz war professionell und effizient.&quot;",
     "reference3-cite": "- Martin Smith, Industriekunde",
+    "footer-prava": "© 2024 H2O Systems. Alle Rechte vorbehalten.",
   },
   cz: {
     link1: "Kdo jsme?",
     link2: "Produkty a služby",
     link3: "Reference",
-    "hero-title": "H&nbsp;&nbsp;O Systems",
+
     "hero-description": "Vaše cesta k čisté vodě",
     "hero-button": "Kdo jsme?",
     "about-title": "O nás",
+    quote:
+      "&quot;Voda je základním prvkem života, který si zaslouží naši pozornost a péči.&quot;",
     "about-description-1":
       "H2O Systems je lídrem v oblasti vodovodných řešení. Jsme inovativní společnost zaměřená na poskytování udržitelných a efektivních řešení pro všechny vaše vodovodní potřeby.",
     "about-description-2":
@@ -103,15 +111,18 @@ const translations = {
     "reference3-text":
       "&quot;Řešení od H2O Systems nám pomohla výrazně zlepšit naše výrobní procesy. Jejich přístup byl profesionální a efektivní.&quot;",
     "reference3-cite": "- Martin Richter, průmyslový klient",
+    "footer-prava": "© 2024 H2O Systems. Všechna práva vyhrazena.",
   },
   en: {
     link1: "Who Are We?",
     link2: "Products and Services",
     link3: "References",
-    "hero-title": "H&nbsp;&nbsp;O Systems",
+
     "hero-description": "Your Path to Clean Water",
     "hero-button": "Who We Are?",
     "about-title": "About us",
+    quote:
+      "&quot;Water is a fundamental element of life that deserves our attention and care.&quot;",
     "about-description-1":
       "H2O Systems is a leader in water system solutions. We are an innovative company focused on providing sustainable and efficient solutions for all your water needs.",
     "about-description-2":
@@ -138,15 +149,24 @@ const translations = {
     "reference3-text":
       "&quot;Solutions from H2O Systems helped us significantly improve our production processes. Their approach was professional and efficient.&quot;",
     "reference3-cite": "- Martin Smith, Industrial Client",
+    "footer-prava": "© 2024 H2O Systems. All rights reserved.",
   },
 };
 
 const hamburger = document.querySelector(".hamburger");
 const navLinks = document.querySelector(".nav-links");
+const links = document.querySelectorAll(".nav-links li");
 
 hamburger.addEventListener("click", () => {
   navLinks.classList.toggle("active");
 });
+
+links.forEach((link) => {
+  link.addEventListener("click", () => {
+    navLinks.classList.remove("active");
+  });
+});
+
 document.addEventListener("DOMContentLoaded", () => {
   const selected = document.querySelector(".select-selected");
   const items = document.querySelector(".select-items");
