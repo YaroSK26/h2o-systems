@@ -10,28 +10,62 @@ const translations = {
     quote:
       "&quot;Voda je základným prvkom života, ktorý si zaslúži našu pozornosť a starostlivosť.&quot;",
     "about-description-1":
-      "H2O Systems je lídrom v oblasti vodovodných riešení. Sme inovatívna spoločnosť zameraná na poskytovanie udržateľných a efektívnych riešení pre všetky vaše vodovodné potreby.",
+      "Sme inovatívna vyrobno-obchodná spoločnosť zastešujúca trh Slovenska, Česka a krajiny EU. Od roku 1999 sa profesionálne venujene výrobe predaju a servisu systémov na úpravu vody najvyššej kvality. Spolupracujeme so svetovými dodávateľmi komponentov na výrobu systémov na úpravu kvality vody na mieru. Kladieme vysoký dôraz na odbornosť, kvalitu našich dodávaných zariadení.",
     "about-description-2":
-      "Naša misia je zlepšiť prístup k čistej vode pre všetkých, či už ide o domácnosti, podniky alebo veľké priemyselné projekty.",
+      "Poskytujeme odborné poradenstvo, návrhy, montáže, servis systémov na úpravu kvality vody, podľa individuálnych požiadaviek našich zákazníkov.",
     "about-description-3":
-      "Sme hrdí na naše odborné znalosti, inovatívne technológie a individuálny prístup k našim zákazníkom.",
-    "products-title": "Produkty a Služby",
-    "products-installation-title": "Inštalácia Vodovodných Potrubí",
-    "products-installation-description":
-      "Poskytujeme komplexné služby inštalácie vodovodných potrubí pre nové stavby, renovácie a rozšírenia.",
-    "products-maintenance-title": "Údržba a Opravy",
-    "products-maintenance-description":
-      "Naše tímy sú pripravené na rýchle a efektívne riešenie akýchkoľvek problémov s vodovodnými potrubiami, aby ste mali vždy prístup k čistej vode.",
-    "products-advice-title": "Poradenstvo a Dizajn",
-    "products-advice-description":
-      "Náš tím odborníkov vám pomôže s návrhom a implementáciou najlepších vodovodných riešení, ktoré vyhovujú vašim potrebám a rozpočtu.",
+      "Od začiatku nášho pôsobenia na trhu sme navrhli a zrealizovali tisíce úprav vody pre našich spokojných klientov. Pridajte sa aj vy k tejto skupine.",
+    "products-title": "Produkty",
+    "products-container-systems-title": "Kontajnerové systémy úpravy vody",
+    "products-container-systems-description":
+      "Kontajnery (požadovaného počtu: simplex, duplex atď.) s komplexom systémov na úpravu vody podľa typu vody, rozboru vody a podľa individuálnych požiadaviek klienta, energeticky nezávislé a mobilné. <br><br>  Použitie: odsoľovanie morskej a oceánskej vody a výroba pitnej úžitkovej vody z akéhokoľvek zdroja vody (rieka, jazero a iná povrchová voda).",
+    "products-water-treatment-systems-title": "Systémy na úpravu vody",
+    "products-water-treatment-systems-description":
+      "Systémy na zmäkčenie vody, odstránenie železa, mangánu a amoniaku, dusičnanov, dusitanov, arzénu, chlóru, zápachu a zákalu, mechanického znečistenia, mikrobiologického znečistenia a nanovírusov, rezíduí pesticídov, herbicídov, liečiv, antibiotík a antikoncepcií, úpravu dažďovej vody, úpravu morskej a oceánskej vody.",
+    "products-kitchen-systems-title":
+      "Systémy na úpravu vody na pitný režim - Kitchen systems",
+    "products-kitchen-systems-description":
+      "Membránová filtrácia: Ultrafiltrácia, Nanofiltrácia, Reverzná osmóza. Výdajníky vody so systémom úpravy vody pre office, UV lampy - dezinfekcie vody k systémom úpravy vody v kuchyni, Systémy na odstránenie chlóru.",
+    "products-small-buildings-title":
+      "Výstavba malých stavieb k systémom úpravy vody (aj na kľúč)",
+    "products-small-buildings-description":
+      "Všetky návrhy riešenia realizácie systémov na úpravu vody sa robia podľa rozboru vody a individuálnych požiadaviek klienta.",
+    "products-water-treatment-systems-softening": "Systémy na zmäkčenie vody",
+    "products-water-treatment-systems-iron-removal":
+      "Systémy na odstránenie železa, mangánu a amoniaku",
+    "products-water-treatment-systems-nitrate-removal":
+      "Systémy na odstránenie dusičnanov, dusitanov",
+    "products-water-treatment-systems-arsenic-removal":
+      "Systémy na odstránenie arzénu",
+    "products-water-treatment-systems-chlorine-removal":
+      "Systémy na odstránenie chlóru, zápachu a zákalu",
+    "products-water-treatment-systems-mechanical-pollution-removal":
+      "Systémy na odstránenie mechanického znečistenia",
+    "products-water-treatment-systems-microbiological-pollution-removal":
+      "Systémy na odstránenie mikrobiologického znečistenia a nanovírusov",
+    "products-water-treatment-systems-residue-removal":
+      "Systémy na odstránenie rezíduí pesticídov, herbicídov, liečiv, antibiotík a antikoncepcií",
+    "products-water-treatment-systems-rainwater-treatment":
+      "Systémy na úpravu dažďovej vody",
+    "products-water-treatment-systems-seawater-treatment":
+      "Systémy na úpravu morskej a oceánskej vody",
+    "products-kitchen-systems-membrane-filtration": "Membránová filtrácia",
+    "products-kitchen-systems-ultrafiltration": "Ultrafiltrácia",
+    "products-kitchen-systems-nanofiltration": "Nanofiltrácia",
+    "products-kitchen-systems-reverse-osmosis": "Reverzná osmóza",
+    "products-kitchen-systems-water-dispensers":
+      "Výdajníky vody so systémom úpravy vody pre office",
+    "products-kitchen-systems-uv-lamps":
+      "UV lampy - dezinfekcie vody k systémom úpravy vody v kuchyni",
+    "products-kitchen-systems-chlorine-removal":
+      "Systémy na odstránenie chlóru",
     "references-title": "Referencie",
     "reference1-text":
       "&quot;Spoločnosť H2O Systems nám poskytla výnimočnú službu pri inštalácii vodovodného systému v našom novom dome. Odporúčame ich každému.&quot;",
     "reference1-cite": "- Ján Novák, súkromný zákazník",
     "reference2-text":
       "&quot;S H2O Systems spolupracujeme už niekoľko rokov. Vždy sa môžeme spoľahnúť na ich odbornosť a spoľahlivosť.&quot;",
-    "reference2-cite": "- Spoločnosť AquaCorp",
+    "reference2-cite": "- Spokojný zakaznik ",
     "reference3-text":
       "&quot;S H2O Systems spolupracujeme už niekoľko rokov. Vždy sa môžeme spoľahnúť na ich odbornosť a spoľahlivosť.&quot;",
     "reference3-cite": "- Martin Richter, Priemyselný klient",
@@ -48,28 +82,64 @@ const translations = {
     quote:
       "&quot;Wasser ist ein grundlegendes Element des Lebens, das unsere Aufmerksamkeit und Fürsorge verdient.&quot;",
     "about-description-1":
-      "H2O Systems ist ein Marktführer in der Wassersystemlösungen. Wir sind eine innovative Firma, die nachhaltige und effiziente Lösungen für all Ihre Wasserbedürfnisse bietet.",
+      " Wir sind ein innovatives Produktions und Handelsunternehmen, das den Markt der Slowakei, der Tschechischen Republik und der EU-Länder abdeckt. Seit 1999 beschäftigt es sich professionell mit der Herstellung, dem Verkauf und dem Service von Wasseraufbereitungssystemen höchster Qualität. Wir arbeiten mit globalen Lieferanten von Komponenten für die Herstellung maßgeschneiderter Systeme zur Wasserqualitätsaufbereitung zusammen. Wir legen großen Wert auf die Fachkompetenz und Qualität unserer gelieferten Geräte.",
     "about-description-2":
-      "Unsere Mission ist es, den Zugang zu sauberem Wasser für alle zu verbessern, ob es sich um Haushalte, Unternehmen oder große Industrieprojekte handelt.",
+      "Wir bieten kompetente Beratung, Planung, Installation und Service von Wasserqualitätsaufbereitungssystemen entsprechend den individuellen Anforderungen unserer Kunden.",
     "about-description-3":
-      "Wir sind stolz auf unsere Fachkenntnisse, innovative Technologien und individuellen Ansatz zu unseren Kunden.",
-    "products-title": "Produkte und Dienstleistungen",
-    "products-installation-title": "Wasserrohrinstallation",
-    "products-installation-description":
-      "Wir bieten umfassende Dienstleistungen für die Installation von Wasserrohren für Neubauten, Renovierungen und Erweiterungen an.",
-    "products-maintenance-title": "Wartung und Reparaturen",
-    "products-maintenance-description":
-      "Unsere Teams sind bereit, schnell und effizient alle Probleme mit Wasserrohren zu lösen, damit Sie immer Zugang zu sauberem Wasser haben.",
-    "products-advice-title": "Beratung und Design",
-    "products-advice-description":
-      "Unser Expertenteam hilft Ihnen bei der Gestaltung und Implementierung der besten Wassersystemlösungen, die Ihren Bedürfnissen und Ihrem Budget entsprechen.",
+      "Seit Beginn unserer Markttätigkeit haben wir Tausende von Wasseraufbereitungen für unsere zufriedenen Kunden konzipiert und umgesetzt.Treten Sie auch dieser Gruppe bei.",
+    "products-title": "Produkte",
+    "products-container-systems-title":
+      "Containergestützte Wasseraufbereitungssysteme",
+    "products-container-systems-description":
+      "Container (Anzahl nach Bedarf: einfach, doppelt, etc.) mit einer kompletten Wasseraufbereitungsanlage je nach Wassertyp, Wasseranalyse und individuellen Kundenanforderungen, energieneutral und mobil. <br><br> Verwendung: Entsalzung von Meer- und Ozeanwasser und Produktion von Trinkwasser aus jeder Wasserquelle (Fluss, See und anderes Oberflächenwasser).",
+    "products-water-treatment-systems-title": "Wasseraufbereitungssysteme",
+    "products-water-treatment-systems-description":
+      "Systeme zur Enthärtung von Wasser, Entfernung von Eisen, Mangan und Ammoniak, Nitraten, Nitriten, Arsen, Chlor, Geruch und Trübung, mechanische Verunreinigungen, mikrobiologische Verunreinigungen und Nanoviren, Rückstände von Pestiziden, Herbiziden, Medikamenten, Antibiotika und Verhütungsmitteln, Regenwasseraufbereitung, Meer- und Ozeanwasseraufbereitung.",
+    "products-kitchen-systems-title":
+      "Wasseraufbereitungssysteme für den Trinkwasserbereich - Küchensysteme",
+    "products-kitchen-systems-description":
+      "Membranfiltration: Ultrafiltration, Nanofiltration, Umkehrosmose. Wasserspender mit Wasseraufbereitungssystem für das Büro, UV-Lampen - Wasserdesinfektion für Wasseraufbereitungssysteme in der Küche, Systeme zur Chlorentfernung.",
+    "products-small-buildings-title":
+      "Bau kleiner Gebäude für Wasseraufbereitungssysteme (auch schlüsselfertig)",
+    "products-small-buildings-description":
+      "Alle Lösungsvorschläge zur Realisierung von Wasseraufbereitungssystemen basieren auf der Wasseranalyse und den individuellen Kundenanforderungen.",
+    "products-water-treatment-systems-softening":
+      "Systeme zur Enthärtung von Wasser",
+    "products-water-treatment-systems-iron-removal":
+      "Systeme zur Entfernung von Eisen, Mangan und Ammoniak",
+    "products-water-treatment-systems-nitrate-removal":
+      "Systeme zur Entfernung von Nitraten und Nitriten",
+    "products-water-treatment-systems-arsenic-removal":
+      "Systeme zur Entfernung von Arsen",
+    "products-water-treatment-systems-chlorine-removal":
+      "Systeme zur Entfernung von Chlor, Geruch und Trübung",
+    "products-water-treatment-systems-mechanical-pollution-removal":
+      "Systeme zur Entfernung von mechanischen Verunreinigungen",
+    "products-water-treatment-systems-microbiological-pollution-removal":
+      "Systeme zur Entfernung von mikrobiologischen Verunreinigungen und Nanoviren",
+    "products-water-treatment-systems-residue-removal":
+      "Systeme zur Entfernung von Rückständen von Pestiziden, Herbiziden, Medikamenten, Antibiotika und Verhütungsmitteln",
+    "products-water-treatment-systems-rainwater-treatment":
+      "Systeme zur Regenwasseraufbereitung",
+    "products-water-treatment-systems-seawater-treatment":
+      "Systeme zur Aufbereitung von Meer- und Ozeanwasser",
+    "products-kitchen-systems-membrane-filtration": "Membranfiltration",
+    "products-kitchen-systems-ultrafiltration": "Ultrafiltration",
+    "products-kitchen-systems-nanofiltration": "Nanofiltration",
+    "products-kitchen-systems-reverse-osmosis": "Umkehrosmose",
+    "products-kitchen-systems-water-dispensers":
+      "Wasserspender mit Wasseraufbereitungssystem für das Büro",
+    "products-kitchen-systems-uv-lamps":
+      "UV-Lampen - Wasserdesinfektion für Wasseraufbereitungssysteme in der Küche",
+    "products-kitchen-systems-chlorine-removal":
+      "Systeme zur Entfernung von Chlor",
     "references-title": "Referenzen",
     "reference1-text":
       "&quot;H2O Systems hat uns bei der Installation des Wasserleitungssystems in unserem neuen Zuhause einen außergewöhnlichen Service geboten. Wir empfehlen sie jedem.&quot;",
     "reference1-cite": "- John Doe, Privatkunde",
     "reference2-text":
       "&quot;Wir arbeiten seit mehreren Jahren mit H2O Systems zusammen. Wir können uns immer auf ihre Expertise und Zuverlässigkeit verlassen.&quot;",
-    "reference2-cite": "- AquaCorp Unternehmen",
+    "reference2-cite": "- Zufriedener Kunde",
     "reference3-text":
       "&quot;Lösungen von H2O Systems haben uns geholfen, unsere Produktionsprozesse erheblich zu verbessern. Ihr Ansatz war professionell und effizient.&quot;",
     "reference3-cite": "- Martin Smith, Industriekunde",
@@ -86,28 +156,61 @@ const translations = {
     quote:
       "&quot;Voda je základním prvkem života, který si zaslouží naši pozornost a péči.&quot;",
     "about-description-1":
-      "H2O Systems je lídrem v oblasti vodovodných řešení. Jsme inovativní společnost zaměřená na poskytování udržitelných a efektivních řešení pro všechny vaše vodovodní potřeby.",
+      "Jsme inovativní výrobní a obchodní společnost pokrývající trh Slovenska, České republiky a zemí EU. Od roku 1999 se profesionálně zabýváme výrobou, prodejem a servisem systémů pro úpravu vody nejvyšší kvality. Spolupracujeme se světovými dodavateli komponentů pro výrobu systémů úpravy vody na míru. Klademe velký důraz na profesionalitu, kvalitu námi dodávaných zařízení.",
     "about-description-2":
-      "Naše mise je zlepšit přístup k čisté vodě pro všechny, ať už jde o domácnosti, podniky nebo velké průmyslové projekty.",
+      "Poskytujeme odborné poradenství, návrh, instalaci, servis systémů úpravy kvality vody podle individuálních požadavků našich zákazníků.",
     "about-description-3":
-      "Jsme hrdí na naše odborné znalosti, inovativní technologie a individuální přístup k našim zákazníkům.",
-    "products-title": "Produkty a služby",
-    "products-installation-title": "Instalace vodovodních potrubí",
-    "products-installation-description":
-      "Poskytujeme komplexní služby instalace vodovodních potrubí pro nové stavby, renovace a rozšíření.",
-    "products-maintenance-title": "Údržba a opravy",
-    "products-maintenance-description":
-      "Naše týmy jsou připraveny rychle a efektivně řešit jakékoliv problémy s vodovodními potrubími, abyste měli vždy přístup k čisté vodě.",
-    "products-advice-title": "Poradenství a design",
-    "products-advice-description":
-      "Náš tým odborníků vám pomůže s návrhem a implementací nejlepších řešení vodních systémů, které vyhovují vašim potřebám a rozpočtu.",
+      "Od počátku našeho působení na trhu jsme navrhli a realizovali tisíce úpraven vody pro naše spokojené zákazníky. Připojte se k této skupině.",
+    "products-title": "Produkty",
+    "products-container-systems-title": "Kontejnerové systémy úpravy vody",
+    "products-container-systems-description":
+      "Kontejnery (požadovaný počet: simplex, duplex atd.) s komplexem systémů na úpravu vody podle typu vody, rozboru vody a podle individuálních požadavků klienta, energeticky nezávislé a mobilní. <br><br> Použití: odsolování mořské a oceánské vody a výroba pitné užitkové vody z jakéhokoli zdroje vody (řeka, jezero a další povrchová voda).",
+    "products-water-treatment-systems-title": "Systémy na úpravu vody",
+    "products-water-treatment-systems-description":
+      "Systémy na změkčení vody, odstranění železa, manganu a amoniaku, dusičnanů, dusitanů, arsenu, chlóru, zápachu a zákalu, mechanické znečištění, mikrobiologické znečištění a nanoviry, rezidua pesticidů, herbicidů, léčiv, antibiotik a antikoncepce, úprava dešťové vody, úprava mořské a oceánské vody.",
+    "products-kitchen-systems-title":
+      "Systémy na úpravu vody na pitný režim - Kuchyňské systémy",
+    "products-kitchen-systems-description":
+      "Membránová filtrace: Ultrafiltrace, Nanofiltrace, Reverzní osmóza. Výdejníky vody se systémem úpravy vody pro kanceláře, UV lampy - dezinfekce vody k systémům úpravy vody v kuchyni, Systémy na odstranění chlóru.",
+    "products-small-buildings-title":
+      "Výstavba malých staveb pro systémy úpravy vody (také na klíč)",
+    "products-small-buildings-description":
+      "Všechny návrhy řešení realizace systémů na úpravu vody jsou prováděny na základě rozboru vody a individuálních požadavků klienta.",
+    "products-water-treatment-systems-softening": "Systémy na změkčení vody",
+    "products-water-treatment-systems-iron-removal":
+      "Systémy na odstranění železa, manganu a amoniaku",
+    "products-water-treatment-systems-nitrate-removal":
+      "Systémy na odstranění dusičnanů, dusitanů",
+    "products-water-treatment-systems-arsenic-removal":
+      "Systémy na odstranění arsenu",
+    "products-water-treatment-systems-chlorine-removal":
+      "Systémy na odstranění chlóru, zápachu a zákalu",
+    "products-water-treatment-systems-mechanical-pollution-removal":
+      "Systémy na odstranění mechanického znečištění",
+    "products-water-treatment-systems-microbiological-pollution-removal":
+      "Systémy na odstranění mikrobiologického znečištění a nanovirů",
+    "products-water-treatment-systems-residue-removal":
+      "Systémy na odstranění reziduí pesticidů, herbicidů, léčiv, antibiotik a antikoncepcí",
+    "products-water-treatment-systems-rainwater-treatment":
+      "Systémy na úpravu dešťové vody",
+    "products-water-treatment-systems-seawater-treatment":
+      "Systémy na úpravu mořské a oceánské vody",
+    "products-kitchen-systems-membrane-filtration": "Membránová filtrace",
+    "products-kitchen-systems-ultrafiltration": "Ultrafiltrace",
+    "products-kitchen-systems-nanofiltration": "Nanofiltrace",
+    "products-kitchen-systems-reverse-osmosis": "Reverzní osmóza",
+    "products-kitchen-systems-water-dispensers":
+      "Výdejníky vody se systémem úpravy vody pro kanceláře",
+    "products-kitchen-systems-uv-lamps":
+      "UV lampy - dezinfekce vody pro systémy úpravy vody v kuchyni",
+    "products-kitchen-systems-chlorine-removal": "Systémy na odstranění chlóru",
     "references-title": "Reference",
     "reference1-text":
       "&quot;H2O Systems nám poskytla výjimečnou službu při instalaci vodovodního systému v našem novém domě. Doporučujeme je všem.&quot;",
     "reference1-cite": "- Jan Novák, soukromý zákazník",
     "reference2-text":
       "&quot;S H2O Systems spolupracujeme již několik let. Vždy se můžeme spolehnout na jejich odbornost a spolehlivost.&quot;",
-    "reference2-cite": "- Společnost AquaCorp",
+    "reference2-cite": "- Spokojený zakaznik",
     "reference3-text":
       "&quot;Řešení od H2O Systems nám pomohla výrazně zlepšit naše výrobní procesy. Jejich přístup byl profesionální a efektivní.&quot;",
     "reference3-cite": "- Martin Richter, průmyslový klient",
@@ -124,28 +227,61 @@ const translations = {
     quote:
       "&quot;Water is a fundamental element of life that deserves our attention and care.&quot;",
     "about-description-1":
-      "H2O Systems is a leader in water system solutions. We are an innovative company focused on providing sustainable and efficient solutions for all your water needs.",
+      "We are an innovative manufacturing and trading company covering the market of Slovakia, Czech Republic and EU countries.Since 1999 we have been professionally engaged in the production, sale and service of water treatment systems of the highest quality. We cooperate with world suppliers of components for the production of customized water quality treatment systems. We place a high value on professionalism, quality of our supplied equipment.",
     "about-description-2":
-      "Our mission is to improve access to clean water for everyone, whether it's households, businesses, or large industrial projects.",
+      "We provide expert advice, design, installation, service of water quality treatment systems, according to the individual requirements of our customers.",
     "about-description-3":
-      "We pride ourselves on our expertise, innovative technologies, and individual approach to our customers.",
-    "products-title": "Products and Services",
-    "products-installation-title": "Water Pipe Installation",
-    "products-installation-description":
-      "We provide comprehensive water pipe installation services for new buildings, renovations and extensions.",
-    "products-maintenance-title": "Maintenance and Repairs",
-    "products-maintenance-description":
-      "Our teams are ready to quickly and efficiently solve any problems with water pipes, so that you always have access to clean water.",
-    "products-advice-title": "Consulting and Design",
-    "products-advice-description":
-      "Our team of experts will help you design and implement the best plumbing solutions to suit your needs and budget.",
+      "Since the beginning of our presence on the market, we have designed and implemented thousands of water treatments for our satisfied clients. Join this group.",
+    "products-title": "Products",
+    "products-container-systems-title": "Container Water Treatment Systems",
+    "products-container-systems-description":
+      "Containers (required number: simplex, duplex, etc.) with a complete set of water treatment systems based on the type of water, water analysis, and individual client requirements, energy-independent and mobile. <br><br> Use: desalination of sea and ocean water and production of potable water from any water source (river, lake, and other surface water).",
+    "products-water-treatment-systems-title": "Water Treatment Systems",
+    "products-water-treatment-systems-description":
+      "Systems for water softening, removal of iron, manganese, and ammonia, nitrates, nitrites, arsenic, chlorine, odor, and turbidity, mechanical contamination, microbiological contamination and nanoviruses, residues of pesticides, herbicides, pharmaceuticals, antibiotics, and contraceptives, rainwater treatment, seawater and ocean water treatment.",
+    "products-kitchen-systems-title":
+      "Drinking Water Treatment Systems - Kitchen Systems",
+    "products-kitchen-systems-description":
+      "Membrane filtration: Ultrafiltration, Nanofiltration, Reverse Osmosis. Water dispensers with water treatment system for office, UV lamps - water disinfection for water treatment systems in the kitchen, Systems for chlorine removal.",
+    "products-small-buildings-title":
+      "Construction of Small Buildings for Water Treatment Systems (also turnkey)",
+    "products-small-buildings-description":
+      "All solution proposals for the realization of water treatment systems are made based on water analysis and individual client requirements.",
+    "products-water-treatment-systems-softening": "Water softening systems",
+    "products-water-treatment-systems-iron-removal":
+      "Systems for removal of iron, manganese, and ammonia",
+    "products-water-treatment-systems-nitrate-removal":
+      "Systems for removal of nitrates, nitrites",
+    "products-water-treatment-systems-arsenic-removal":
+      "Systems for removal of arsenic",
+    "products-water-treatment-systems-chlorine-removal":
+      "Systems for removal of chlorine, odor, and turbidity",
+    "products-water-treatment-systems-mechanical-pollution-removal":
+      "Systems for removal of mechanical pollution",
+    "products-water-treatment-systems-microbiological-pollution-removal":
+      "Systems for removal of microbiological contamination and nanoviruses",
+    "products-water-treatment-systems-residue-removal":
+      "Systems for removal of residues of pesticides, herbicides, pharmaceuticals, antibiotics, and contraceptives",
+    "products-water-treatment-systems-rainwater-treatment":
+      "Rainwater treatment systems",
+    "products-water-treatment-systems-seawater-treatment":
+      "Seawater and ocean water treatment systems",
+    "products-kitchen-systems-membrane-filtration": "Membrane filtration",
+    "products-kitchen-systems-ultrafiltration": "Ultrafiltration",
+    "products-kitchen-systems-nanofiltration": "Nanofiltration",
+    "products-kitchen-systems-reverse-osmosis": "Reverse osmosis",
+    "products-kitchen-systems-water-dispensers":
+      "Water dispensers with water treatment system for office",
+    "products-kitchen-systems-uv-lamps":
+      "UV lamps - water disinfection for kitchen water treatment systems",
+    "products-kitchen-systems-chlorine-removal": "Chlorine removal systems",
     "references-title": "References",
     "reference1-text":
       "&quot;H2O Systems provided us with exceptional service installing the plumbing system in our new home. We recommend them to everyone.&quot;",
     "reference1-cite": "- John Doe, Private Client",
     "reference2-text":
       "&quot;We have been working with H2O Systems for several years. We can always rely on their expertise and reliability.&quot;",
-    "reference2-cite": "- AquaCorp Company",
+    "reference2-cite": "- Satisfied customer",
     "reference3-text":
       "&quot;Solutions from H2O Systems helped us significantly improve our production processes. Their approach was professional and efficient.&quot;",
     "reference3-cite": "- Martin Smith, Industrial Client",
