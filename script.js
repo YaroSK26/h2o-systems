@@ -1,7 +1,3 @@
-import { inject } from "@vercel/analytics";
-
-inject();
-
 const translations = {
   sk: {
     link1: "Kto Sme?",
@@ -325,7 +321,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
       updateLanguage(value);
 
-      localStorage.setItem("language", value);
+      localStorage.setItem('language', value);
     });
   });
 
@@ -345,12 +341,10 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 
-  const savedLanguage = localStorage.getItem("language");
+  const savedLanguage = localStorage.getItem('language');
   if (savedLanguage) {
     updateLanguage(savedLanguage);
-    const option = document.querySelector(
-      `.select-items div[data-value="${savedLanguage}"]`
-    );
+    const option = document.querySelector(`.select-items div[data-value="${savedLanguage}"]`);
     if (option) {
       const imgSrc = option.getAttribute("data-img-src");
       selected.innerHTML = `<img src="${imgSrc}" alt="${savedLanguage}">`;
