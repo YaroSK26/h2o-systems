@@ -287,6 +287,80 @@ const translations = {
     "reference3-cite": "- Martin Smith, Industrial Client",
     "footer-prava": "© 2024 H2O Systems. All rights reserved.",
   },
+  es: {
+    link1: "¿Quiénes somos?",
+    link2: "Productos y Servicios",
+    link3: "Referencias",
+
+    "hero-description": "Tu camino hacia el agua limpia",
+    "hero-button": "¿Quiénes somos?",
+    "about-title": "Sobre nosotros",
+    quote:
+      "&quot;El agua es un elemento fundamental de la vida que merece nuestra atención y cuidado.&quot;",
+    "about-description-1":
+      "Somos una empresa innovadora de fabricación y comercio que cubre el mercado de Eslovaquia, República Checa y países de la UE. Desde 1999 nos dedicamos profesionalmente a la producción, venta y servicio de sistemas de tratamiento de agua de la más alta calidad. Colaboramos con proveedores mundiales de componentes para la producción de sistemas de tratamiento de calidad de agua personalizados. Valoramos mucho la profesionalidad, la calidad de nuestro equipo suministrado.",
+    "about-description-2":
+      "Ofrecemos asesoramiento experto, diseño, instalación, servicio de sistemas de tratamiento de calidad de agua, de acuerdo con los requisitos individuales de nuestros clientes.",
+    "about-description-3":
+      "Desde el comienzo de nuestra presencia en el mercado, hemos diseñado e implementado miles de tratamientos de agua para nuestros clientes satisfechos. Únete a este grupo.",
+    "products-title": "Productos",
+    "products-container-systems-title":
+      "Sistemas de Tratamiento de Agua en Contenedor",
+    "products-container-systems-description":
+      "Contenedores (número requerido: simplex, duplex, etc.) con un conjunto completo de sistemas de tratamiento de agua basados en el tipo de agua, análisis de agua y requisitos individuales del cliente, independientes de la energía y móviles. <br><br> Uso: desalinización de agua de mar y océano y producción de agua potable a partir de cualquier fuente de agua (río, lago y otras aguas superficiales).",
+    "products-water-treatment-systems-title": "Sistemas de Tratamiento de Agua",
+    "products-water-treatment-systems-description":
+      "Sistemas para ablandamiento de agua, eliminación de hierro, manganeso y amoníaco, nitratos, nitritos, arsénico, cloro, olor y turbidez, contaminación mecánica, contaminación microbiológica y nanovirus, residuos de pesticidas, herbicidas, productos farmacéuticos, antibióticos y anticonceptivos, tratamiento de agua de lluvia, tratamiento de agua de mar y agua de océano.",
+    "products-kitchen-systems-title":
+      "Sistemas de Tratamiento de Agua Potable - Sistemas de Cocina",
+    "products-kitchen-systems-description":
+      "Filtración de membrana: Ultrafiltración, Nanofiltración, Osmosis inversa. Dispensadores de agua con sistema de tratamiento de agua para oficina, lámparas UV - desinfección de agua para sistemas de tratamiento de agua en la cocina, Sistemas para eliminación de cloro.",
+    "products-small-buildings-title":
+      "Construcción de Pequeños Edificios para Sistemas de Tratamiento de Agua (también llave en mano)",
+    "products-small-buildings-description":
+      "Todas las propuestas de soluciones para la realización de sistemas de tratamiento de agua se hacen en base al análisis del agua y a los requisitos individuales del cliente.",
+    "products-water-treatment-systems-softening":
+      "Sistemas de ablandamiento de agua",
+    "products-water-treatment-systems-iron-removal":
+      "Sistemas para eliminación de hierro, manganeso y amoníaco",
+    "products-water-treatment-systems-nitrate-removal":
+      "Sistemas para eliminación de nitratos, nitritos",
+    "products-water-treatment-systems-arsenic-removal":
+      "Sistemas para eliminación de arsénico",
+    "products-water-treatment-systems-chlorine-removal":
+      "Sistemas para eliminación de cloro, olor y turbidez",
+    "products-water-treatment-systems-mechanical-pollution-removal":
+      "Sistemas para eliminación de contaminación mecánica",
+    "products-water-treatment-systems-microbiological-pollution-removal":
+      "Sistemas para eliminación de contaminación microbiológica y nanovirus",
+    "products-water-treatment-systems-residue-removal":
+      "Sistemas para eliminación de residuos de pesticidas, herbicidas, productos farmacéuticos, antibióticos y anticonceptivos",
+    "products-water-treatment-systems-rainwater-treatment":
+      "Sistemas de tratamiento de agua de lluvia",
+    "products-water-treatment-systems-seawater-treatment":
+      "Sistemas de tratamiento de agua de mar y agua de océano",
+    "products-kitchen-systems-membrane-filtration": "Filtración de membrana",
+    "products-kitchen-systems-ultrafiltration": "Ultrafiltración",
+    "products-kitchen-systems-nanofiltration": "Nanofiltración",
+    "products-kitchen-systems-reverse-osmosis": "Osmosis inversa",
+    "products-kitchen-systems-water-dispensers":
+      "Dispensadores de agua con sistema de tratamiento de agua para oficina",
+    "products-kitchen-systems-uv-lamps":
+      "Lámparas UV - desinfección de agua para sistemas de tratamiento de agua en la cocina",
+    "products-kitchen-systems-chlorine-removal":
+      "Sistemas de eliminación de cloro",
+    "references-title": "Referencias",
+    "reference1-text":
+      "&quot;H2O Systems nos proporcionó un servicio excepcional en la instalación de un sistema de tratamiento de agua en nuestra nueva casa. Los recomendamos a todos.&quot;",
+    "reference1-cite": "- John Doe, Cliente Privado",
+    "reference2-text":
+      "&quot;Hemos estado trabajando con H2O Systems durante varios años. Siempre podemos confiar en su experiencia y fiabilidad.&quot;",
+    "reference2-cite": "- Cliente satisfecho",
+    "reference3-text":
+      "&quot;Las soluciones de H2O Systems nos ayudaron a mejorar significativamente nuestros procesos de producción. Su enfoque fue profesional y eficiente.&quot;",
+    "reference3-cite": "- Martin Smith, Cliente Industrial",
+    "footer-prava": "© 2024 H2O Systems. Todos los derechos reservados.",
+  },
 };
 
 const hamburger = document.querySelector(".hamburger");
