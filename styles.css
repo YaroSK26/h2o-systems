@@ -239,30 +239,7 @@ nav ul li :hover::after {
         
     }
 
-.title1::before {
-    content: '2';
-    font-size: 60px;
-    position: absolute;
-    top: 13px; 
-    left: 35px; 
-    line-height: 1;
-    height: 6.9px; 
-}
 
-        .title1::after {
-            content: '';
-            display: block;
-            width: 280px; 
-            height: 6.9px; 
-            background-color: rgb(255, 255, 255); 
-            position: absolute;
-            left: 40px; 
-            bottom: -5.5px;
-            z-index: -1; 
-            
-        }
-
-        .title2{text-align: center;}
 
         .hero p {
             color: #fff;
@@ -482,12 +459,7 @@ nav ul li :hover::after {
 }
 
 @media (max-width: 400px) {
-    .title1 {
-        display: none;
-    }
-    .title2{
-        display: block;    
-    }
+
 
     .hero-content {
             padding-left: 10px;
@@ -497,15 +469,6 @@ nav ul li :hover::after {
            padding-bottom: 30px;
             
         }
-}
-@media (min-width: 401px) {
-    .title1 {
-        display: block;
-    }
-    .title2{
-        display: none; 
-    }
-    
 }
 
 

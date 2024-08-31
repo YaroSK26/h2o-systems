@@ -10,7 +10,7 @@ const translations = {
     quote:
       "&quot;Voda je základným prvkom života, ktorý si zaslúži našu pozornosť a starostlivosť.&quot;",
     "about-description-1":
-      "Sme inovatívna vyrobno-obchodná spoločnosť zastešujúca trh Slovenska, Česka a krajiny EU. Od roku 1999 sa profesionálne venujene výrobe predaju a servisu systémov na úpravu vody najvyššej kvality. Spolupracujeme so svetovými dodávateľmi komponentov na výrobu systémov na úpravu kvality vody na mieru. Kladieme vysoký dôraz na odbornosť, kvalitu našich dodávaných zariadení.",
+      "Sme inovatívna vyrobno-obchodná spoločnosť zastrešujúca trh Slovenska, Česka a krajiny EU. Od roku 1999 sa profesionálne venujene výrobe predaju a servisu systémov na úpravu vody najvyššej kvality. Spolupracujeme so svetovými dodávateľmi komponentov na výrobu systémov na úpravu kvality vody na mieru. Kladieme vysoký dôraz na odbornosť, kvalitu našich dodávaných zariadení.",
     "about-description-2":
       "Poskytujeme odborné poradenstvo, návrhy, montáže, servis systémov na úpravu kvality vody, podľa individuálnych požiadaviek našich zákazníkov.",
     "about-description-3":
@@ -61,7 +61,7 @@ const translations = {
       "Systémy na odstránenie chlóru",
     "references-title": "Referencie",
     "reference1-text":
-      "&quot;Spoločnosť H2O Systems nám poskytla výnimočnú službu pri inštalácii vodovodného systému v našom novom dome. Odporúčame ich každému.&quot;",
+      "&quot;Spoločnosť H2O Systems nám poskytla výnimočnú službu pri inštalácii systému na úpravy vody v našom novom dome. Odporúčame ich každému.&quot;",
     "reference1-cite": "- Ján Novák, súkromný zákazník",
     "reference2-text":
       "&quot;S H2O Systems spolupracujeme už niekoľko rokov. Vždy sa môžeme spoľahnúť na ich odbornosť a spoľahlivosť.&quot;",
@@ -135,7 +135,7 @@ const translations = {
       "Systeme zur Entfernung von Chlor",
     "references-title": "Referenzen",
     "reference1-text":
-      "&quot;H2O Systems hat uns bei der Installation des Wasserleitungssystems in unserem neuen Zuhause einen außergewöhnlichen Service geboten. Wir empfehlen sie jedem.&quot;",
+      "&quot;H2O Systems hat uns bei der Installation einer Wasseraufbereitungsanlage in unserem neuen Zuhause einen außergewöhnlichen Service geboten. Wir empfehlen sie jedem.&quot;",
     "reference1-cite": "- John Doe, Privatkunde",
     "reference2-text":
       "&quot;Wir arbeiten seit mehreren Jahren mit H2O Systems zusammen. Wir können uns immer auf ihre Expertise und Zuverlässigkeit verlassen.&quot;",
@@ -206,7 +206,7 @@ const translations = {
     "products-kitchen-systems-chlorine-removal": "Systémy na odstranění chlóru",
     "references-title": "Reference",
     "reference1-text":
-      "&quot;H2O Systems nám poskytla výjimečnou službu při instalaci vodovodního systému v našem novém domě. Doporučujeme je všem.&quot;",
+      "&quot;H2O Systems nám poskytla výjimečnou službu při instalaci systému úpravy vody v našem novém domě. Doporučujeme je všem.&quot;",
     "reference1-cite": "- Jan Novák, soukromý zákazník",
     "reference2-text":
       "&quot;S H2O Systems spolupracujeme již několik let. Vždy se můžeme spolehnout na jejich odbornost a spolehlivost.&quot;",
@@ -277,7 +277,7 @@ const translations = {
     "products-kitchen-systems-chlorine-removal": "Chlorine removal systems",
     "references-title": "References",
     "reference1-text":
-      "&quot;H2O Systems provided us with exceptional service installing the plumbing system in our new home. We recommend them to everyone.&quot;",
+      "&quot;H2O Systems provided us with exceptional service in the installation of a water treatment system in our new home. We recommend them to everyone.&quot;",
     "reference1-cite": "- John Doe, Private Client",
     "reference2-text":
       "&quot;We have been working with H2O Systems for several years. We can always rely on their expertise and reliability.&quot;",
