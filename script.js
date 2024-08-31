@@ -400,6 +400,9 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 
   function updateLanguage(language) {
+    document.documentElement.lang = language;
+    
+    
     const elements = document.querySelectorAll("[data-translate]");
     elements.forEach((el) => {
       const key = el.getAttribute("data-translate");
