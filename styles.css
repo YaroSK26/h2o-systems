@@ -308,7 +308,7 @@ nav ul li :hover::after {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 30px;
+    gap: 50px;
 }
 
 .product-item {
@@ -331,6 +331,35 @@ nav ul li :hover::after {
     margin-bottom: 10px;
     font-size: 22px;
 }
+/*studie kontainerov*/
+
+.containers {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+.containers div{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+
+}
+
+.containers img{
+    width: 320px;
+    height: 200px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+    transition: transform 0.3s;
+}
+
+
 
 /* References Section */
 .references {
@@ -419,6 +448,7 @@ nav ul li :hover::after {
         font-size: 20px;
         left: 5%;
     }
+    
 
     .nav-links.active {
         position: absolute;
@@ -456,6 +486,7 @@ nav ul li :hover::after {
             padding-right: 20px;
             
         }
+
 }
 
 @media (max-width: 400px) {

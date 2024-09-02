@@ -70,6 +70,22 @@ const translations = {
       "&quot;S H2O Systems spolupracujeme už niekoľko rokov. Vždy sa môžeme spoľahnúť na ich odbornosť a spoľahlivosť.&quot;",
     "reference3-cite": "- Martin Richter, Priemyselný klient",
     "footer-prava": "© 2024 H2O Systems. Všetky práva vyhradené.",
+
+    "containers-title": "Štúdie kontajnerov",
+    "containers-text":
+      "Jednotka na úpravu vody: PP predfilter vyrobený z 0,5μm filtračnej vložky filter s aktívnym uhlím, tlakomery plnené glycerínom, vysokotlakové odstredivé čerpadlo s 3-fázovým motorom, tlakové nádoby vyrobené z vysoko kvalitnej FRP membrány 1000PSI 1 moduly vyrobené z kompozitnej membrány ( PE, PS, PA*), nastaviteľné regulačné ventily pre reguláciu recirkulácie a koncentrácie, ovládací panel s mikroprocesorom podľa EN 60204, norma DIN VDE 0113 - krytie IP 54 vrátane prevádzkových a poruchových LED, hlavného vypínača, alarmu vysokej vodivosti a GSM správ na základe miestneho telekomunikačného operátora.",
+    "containers-title2":
+      "Jednotka na úpravu vody v oceľovej nádrži so solárnymi fotovoltaickými modulmi ako rozšírením",
+    "containers-table1": "Typ",
+    "containers-table2": "WTUC 10000-S",
+    "containers-table3": "Autor",
+    "containers-table4": "J. Hospodár",
+    "containers-table5": "Tok",
+    "kontajnerový stôl6": "13500 – 10000 l/h",
+    "containers-table7": "Prevádzkový tlak",
+    "containers-table8": "11,4 bar",
+    "containers-table9": "Spotreba surovej vody",
+    "stôl kontajnerov10": "15 700 l/h",
   },
   de: {
     link1: "Wer sind wir?",
@@ -144,6 +160,22 @@ const translations = {
       "&quot;Lösungen von H2O Systems haben uns geholfen, unsere Produktionsprozesse erheblich zu verbessern. Ihr Ansatz war professionell und effizient.&quot;",
     "reference3-cite": "- Martin Smith, Industriekunde",
     "footer-prava": "© 2024 H2O Systems. Alle Rechte vorbehalten.",
+
+    "containers-title": "Containerstudien",
+    "containers-text":
+      "Wasseraufbereitungseinheit: PP-Vorfilter aus 0,5 μm Filterpatronenfilter mit Aktivkohle, Manometer gefüllt mit Glycerin, Hochdruck-Kreiselpumpe mit 3-Phasen-Motor, Druckbehälter aus 1000 PSI hochwertiger FRP-Membran 1 Module aus Verbundmembran (PE, PS, PA*), einstellbare Regelventile zur Regulierung von Umwälzung und Konzentration, Bedienfeld mit Mikroprozessor nach EN 60204, DIN VDE 0113 Norm – Schutzart IP 54 inklusive Betriebs- und Störungs-LEDs, Hauptschalter, Alarm bei hoher Leitfähigkeit und GSM-Meldungen basierend auf dem örtlichen Telekommunikationsbetreiber.",
+    "containers-title2":
+      "Wasseraufbereitungsanlage in einem Stahltank mit Solar-Photovoltaik-Modulen als Erweiterung",
+    "containers-table1": "Typ",
+    "containers-table2": "WTUC 10000-S",
+    "containers-table3": "Autor",
+    "containers-table4": "J. Hospodár",
+    "containers-table5": "fließen",
+    "containers-table6": "13500 – 10000 l/h",
+    "containers-table7": "Betriebsdruck",
+    "containers-table8": "11,4 bar",
+    "containers-table9": "Rohwasserverbrauch",
+    "containers-table10": "15.700 l/h",
   },
   cz: {
     link1: "Kdo jsme?",
@@ -215,6 +247,22 @@ const translations = {
       "&quot;Řešení od H2O Systems nám pomohla výrazně zlepšit naše výrobní procesy. Jejich přístup byl profesionální a efektivní.&quot;",
     "reference3-cite": "- Martin Richter, průmyslový klient",
     "footer-prava": "© 2024 H2O Systems. Všechna práva vyhrazena.",
+
+    "containers-title": "Studie kontejnerů",
+    "containers-text":
+      "Jednotka na úpravu vody: PP předfiltr z 0,5μm filtrační patrony filtr s aktivním uhlím, tlakoměry plněné glycerinem, vysokotlaké odstředivé čerpadlo s 3fázovým motorem, tlakové nádoby vyrobené z vysoce kvalitní FRP membrány 1000PSI 1 moduly vyrobené z kompozitní membrány ( PE, PS, PA*), nastavitelné regulační ventily pro regulaci recirkulace a koncentrace, ovládací panel s mikroprocesorem dle EN 60204, norma DIN VDE 0113 - krytí IP 54 včetně provozních a poruchových LED, hlavního vypínače, alarmu vysoké vodivosti a zpráv GSM na základě místního telekomunikačního operátora.",
+    "containers-title2":
+      "Jednotka na úpravu vody v ocelové nádrži se solárními fotovoltaickými moduly jako rozšíření",
+    "containers-table1": "Typ",
+    "containers-table2": "WTUC 10000-S",
+    "containers-table3": "Autor",
+    "containers-table4": "J. Hospodář",
+    "containers-table5": "Tok",
+    "containers-table6": "13500 – 10000 l/h",
+    "containers-table7": "Provozní tlak",
+    "containers-table8": "11,4 bar",
+    "containers-table9": "Spotřeba surové vody",
+    "containers-table10": "15 700 l/h",
   },
   en: {
     link1: "Who Are We?",
@@ -286,6 +334,22 @@ const translations = {
       "&quot;Solutions from H2O Systems helped us significantly improve our production processes. Their approach was professional and efficient.&quot;",
     "reference3-cite": "- Martin Smith, Industrial Client",
     "footer-prava": "© 2024 H2O Systems. All rights reserved.",
+
+    "containers-title": "Studies of Containers",
+    "containers-text":
+      "Water treatment unit: PP prefilter made of 0.5μm filter cartridge filter with activated carbon, pressure gauges filled with glycerin, high pressure centrifugal pump with 3-phase motor, pressure vessels made of 1000PSI high quality FRP membrane 1 modules made of composite membrane (PE, PS, PA*), adjustable control valves for regulation of recirculation and concentration, control panel with microprocessor according to EN 60204, DIN VDE 0113 standard - protection IP 54 including operation and fault LEDs, main switch , high conductivity alarm and GSM messages based on local telecommunications operator.",
+    "containers-title2":
+      "Water treatment unit in a steel tank with solar photovoltaic modules as an extension",
+    "containers-table1": "Type",
+    "containers-table2": "WTUC 10000-S",
+    "containers-table3": "Author",
+    "containers-table4": "J. Hospodár",
+    "containers-table5": "Flow",
+    "containers-table6": "13500 – 10000 l/h",
+    "containers-table7": "Operating pressure",
+    "containers-table8": "11.4 bar",
+    "containers-table9": "Raw water consumption",
+    "containers-table10": "15,700 l/h",
   },
   es: {
     link1: "¿Quiénes somos?",
@@ -360,6 +424,22 @@ const translations = {
       "&quot;Las soluciones de H2O Systems nos ayudaron a mejorar significativamente nuestros procesos de producción. Su enfoque fue profesional y eficiente.&quot;",
     "reference3-cite": "- Martin Smith, Cliente Industrial",
     "footer-prava": "© 2024 H2O Systems. Todos los derechos reservados.",
+
+    "containers-title": "Estudios de Contenedores",
+    "containers-text":
+      "Unidad de tratamiento de agua: prefiltro de PP fabricado con filtro de cartucho filtrante de 0,5μm con carbón activado, manómetros llenos de glicerina, bomba centrífuga de alta presión con motor trifásico, recipientes a presión fabricados con membrana FRP de alta calidad de 1000PSI 1 módulos de membrana compuesta (PE, PS, PA*), válvulas de control regulables para la regulación de la recirculación y la concentración, panel de control con microprocesador según EN 60204, norma DIN VDE 0113 - protección IP 54 que incluye LED de funcionamiento y fallo, interruptor principal, alarma de alta conductividad y mensajes GSM basados ​​en el operador de telecomunicaciones local.",
+    "containers-title2":
+      "Unidad de tratamiento de agua en un tanque de acero con módulos solares fotovoltaicos como extensión",
+    "containers-table1": "Tipo",
+    "containers-table2": "WTUC 10000-S",
+    "containers-table3": "Autor",
+    "containers-table4": "J. Hospodár",
+    "containers-table5": "Flujo",
+    "containers-table6": "13500 – 10000 l/h",
+    "containers-table7": "Presión de funcionamiento",
+    "containers-table8": "11,4 bar",
+    "containers-table9": "Consumo de agua cruda",
+    "containers-table10": "15.700 l/h",
   },
 };
 
@@ -395,14 +475,13 @@ document.addEventListener("DOMContentLoaded", () => {
 
       updateLanguage(value);
 
-      localStorage.setItem('language', value);
+      localStorage.setItem("language", value);
     });
   });
 
   function updateLanguage(language) {
     document.documentElement.lang = language;
-    
-    
+
     const elements = document.querySelectorAll("[data-translate]");
     elements.forEach((el) => {
       const key = el.getAttribute("data-translate");
@@ -418,10 +497,12 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 
-  const savedLanguage = localStorage.getItem('language');
+  const savedLanguage = localStorage.getItem("language");
   if (savedLanguage) {
     updateLanguage(savedLanguage);
-    const option = document.querySelector(`.select-items div[data-value="${savedLanguage}"]`);
+    const option = document.querySelector(
+      `.select-items div[data-value="${savedLanguage}"]`
+    );
     if (option) {
       const imgSrc = option.getAttribute("data-img-src");
       selected.innerHTML = `<img src="${imgSrc}" alt="${savedLanguage}">`;
