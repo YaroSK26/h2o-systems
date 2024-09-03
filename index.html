@@ -92,6 +92,9 @@ Od začiatku nášho pôsobenia na trhu sme navrhli a zrealizovali tisíce úpra
             <p data-translate="products-container-systems-description">
                 Kontajnery (požadovaného počtu: simplex, duplex atď.) s komplexom systémov na úpravu vody podľa typu vody, rozboru vody a podľa individuálnych požiadaviek klienta, energeticky nezávislé a mobilné. <br><br> Použitie: odsoľovanie morskej a oceánskej vody a výroba pitnej úžitkovej vody z akéhokoľvek zdroja vody (rieka, jazero a iná povrchová voda).
             </p>
+            <div class="containers-image">
+    <img id="rotatingImage" src="./images/container1.jpg" alt="3d view of container">
+</div>
         </div>
         <div class="product-item">
             <h3 data-translate="products-water-treatment-systems-title">Systémy na úpravu vody</h3>
@@ -140,12 +143,7 @@ Od začiatku nášho pôsobenia na trhu sme navrhli a zrealizovali tisíce úpra
 
 <section  id="containers" class="containers">
     
-    <div>
-        <img src="./images/container1.jpg" alt="3d view of container">
-        <img src="./images/container2.jpg" alt="side view of container"><br>
-        <img src="./images/container3.jpg" alt="front of container">
-        <img src="./images/container4.png" alt="3d side of container">
-    </div>
+    
     
     <h2 data-translate="containers-title">Študie kontajnerov</h2>
    
@@ -224,6 +222,21 @@ solárne fotovoltické moduly ako rozšírenie</h3>
   gtag('js', new Date());
 
   gtag('config', 'G-0QCZ5W3GRV');
+
+     var images = [
+        './images/container1.png',
+        './images/container2.png',
+        './images/container3.png',
+        './images/container4.png'
+    ];
+
+    var currentImageIndex = 0;
+    var imageElement = document.getElementById('rotatingImage');
+
+    setInterval(function() {
+        currentImageIndex = (currentImageIndex + 1) % images.length;
+        imageElement.src = images[currentImageIndex];
+    }, 3000);
 </script>
 
 
