@@ -499,3 +499,43 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   }
 });
+
+
+
+
+
+var images = [
+  "./images/container1.png",
+  "./images/container2.png",
+  "./images/container3.png",
+  "./images/container4.png",
+];
+
+var currentImageIndex = 0;
+var imageElement = document.getElementById("rotatingImage");
+var loadingSpinner = document.getElementById("loading-spinner");
+
+// Initial load
+function loadImage() {
+  var img = new Image();
+  img.src = images[currentImageIndex];
+  img.onload = function () {
+    imageElement.src = img.src;
+    imageElement.style.opacity = 1; // Fade in the image
+    loadingSpinner.style.display = "none"; // Hide spinner
+  };
+  img.onerror = function () {
+    // Handle error if image fails to load
+    console.error("Failed to load image:", img.src);
+  };
+}
+
+// Load the first image
+loadImage();
+
+setInterval(function () {
+  imageElement.style.opacity = 0; // Fade out the image
+  loadingSpinner.style.display = "block"; // Show spinner
+  currentImageIndex = (currentImageIndex + 1) % images.length;
+  setTimeout(loadImage, 500); // Load the next image after the fade-out
+}, 3000);
