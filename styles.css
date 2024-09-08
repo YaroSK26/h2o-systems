@@ -211,14 +211,12 @@ nav ul li :hover::after {
         
 
         .hero-content {
-            background: rgba(0, 0, 0, 0.5);
              height: 100vh;
              width: 100%;
             transition: transform 0.3s, box-shadow 0.3s;
             box-shadow: 0 4px 8px var(--shadow-color);
             position: relative; 
             z-index: 1; 
-            border-bottom: 2px solid var(--secondary-color);
             display: flex;
             justify-content:space-between;
             flex-direction: row;
