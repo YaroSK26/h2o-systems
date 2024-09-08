@@ -18,12 +18,12 @@ const translations = {
     "products-title": "Produkty",
     "products-container-systems-title": "Kontajnerové systémy úpravy vody",
     "products-container-systems-description":
-      "Kontajnery (požadovaného počtu: simplex, duplex atď.) s komplexom systémov na úpravu vody podľa typu vody, rozboru vody a podľa individuálnych požiadaviek klienta, energeticky nezávislé a mobilné. <br><br>  Použitie: odsoľovanie morskej a oceánskej vody a výroba pitnej úžitkovej vody z akéhokoľvek zdroja vody (rieka, jazero a iná povrchová voda).",
+      "Kontajnery (požadovaného počtu: simplex, duplex atď.) s komplexom systémov na úpravu vody podľa typu vody, rozboru vody a podľa individuálnych požiadaviek klienta, energeticky nezávislé a mobilné. Podľa miesta použitia sa dá zaizolovať a vybaviť klimatizácia. <br><br>  Použitie: odsoľovanie morskej a oceánskej vody a výroba pitnej úžitkovej vody z akéhokoľvek zdroja vody (rieka, jazero a iná povrchová voda).",
     "products-water-treatment-systems-title": "Systémy na úpravu vody",
     "products-water-treatment-systems-description":
       "Systémy na zmäkčenie vody, odstránenie železa, mangánu a amoniaku, dusičnanov, dusitanov, arzénu, chlóru, zápachu a zákalu, mechanického znečistenia, mikrobiologického znečistenia a nanovírusov, rezíduí pesticídov, herbicídov, liečiv, antibiotík a antikoncepcií, úpravu dažďovej vody, úpravu morskej a oceánskej vody.",
     "products-kitchen-systems-title":
-      "Systémy na úpravu vody na pitný režim - Kitchen systems",
+      "Systémy na úpravu vody na pitný režim - Kuchynský systém",
     "products-kitchen-systems-description":
       "Membránová filtrácia: Ultrafiltrácia, Nanofiltrácia, Reverzná osmóza. Výdajníky vody so systémom úpravy vody pre office, UV lampy - dezinfekcie vody k systémom úpravy vody v kuchyni, Systémy na odstránenie chlóru.",
     "products-small-buildings-title":
@@ -49,16 +49,6 @@ const translations = {
       "Systémy na úpravu dažďovej vody",
     "products-water-treatment-systems-seawater-treatment":
       "Systémy na úpravu morskej a oceánskej vody",
-    "products-kitchen-systems-membrane-filtration": "Membránová filtrácia",
-    "products-kitchen-systems-ultrafiltration": "Ultrafiltrácia",
-    "products-kitchen-systems-nanofiltration": "Nanofiltrácia",
-    "products-kitchen-systems-reverse-osmosis": "Reverzná osmóza",
-    "products-kitchen-systems-water-dispensers":
-      "Výdajníky vody so systémom úpravy vody pre office",
-    "products-kitchen-systems-uv-lamps":
-      "UV lampy - dezinfekcie vody k systémom úpravy vody v kuchyni",
-    "products-kitchen-systems-chlorine-removal":
-      "Systémy na odstránenie chlóru",
     "references-title": "Referencie",
     "reference1-text":
       "&quot;Spoločnosť H2O Systems nám poskytla výnimočnú službu pri inštalácii systému na úpravy vody v našom novom dome. Odporúčame ich každému.&quot;",
@@ -69,6 +59,12 @@ const translations = {
     "reference3-text":
       "&quot;S H2O Systems spolupracujeme už niekoľko rokov. Vždy sa môžeme spoľahnúť na ich odbornosť a spoľahlivosť.&quot;",
     "reference3-cite": "- Martin Richter, Priemyselný klient",
+    "reference4-text-sk":
+      '"H2O Systems poskytuje inovatívne riešenia, ktoré sú na špičke technológie vody. Ich produkty a služby sú vynikajúce."',
+    "reference4-cite-sk": "- Analytik, Technologický analytik",
+    "reference5-text-sk":
+      '"S H2O Systems sme mali len pozitívne skúsenosti. Ich systémy na úpravu vody sú spoľahlivé a efektívne."',
+    "reference5-cite-sk": "- Eva Kovačičová, Domáci užívateľ",
     "footer-prava": "© 2024 H2O Systems. Všetky práva vyhradené.",
 
     "containers-title": "Štúdie kontajnerov",
@@ -105,7 +101,7 @@ const translations = {
     "products-container-systems-title":
       "Containergestützte Wasseraufbereitungssysteme",
     "products-container-systems-description":
-      "Container (Anzahl nach Bedarf: einfach, doppelt, etc.) mit einer kompletten Wasseraufbereitungsanlage je nach Wassertyp, Wasseranalyse und individuellen Kundenanforderungen, energieneutral und mobil. <br><br> Verwendung: Entsalzung von Meer- und Ozeanwasser und Produktion von Trinkwasser aus jeder Wasserquelle (Fluss, See und anderes Oberflächenwasser).",
+      "Container (Anzahl nach Bedarf: einfach, doppelt, etc.) mit einer kompletten Wasseraufbereitungsanlage je nach Wassertyp, Wasseranalyse und individuellen Kundenanforderungen, energieneutral und mobil. Die Klimaanlage kann je nach Einsatzort isoliert und ausgestattet werden. <br><br> Verwendung: Entsalzung von Meer- und Ozeanwasser und Produktion von Trinkwasser aus jeder Wasserquelle (Fluss, See und anderes Oberflächenwasser).",
     "products-water-treatment-systems-title": "Wasseraufbereitungssysteme",
     "products-water-treatment-systems-description":
       "Systeme zur Enthärtung von Wasser, Entfernung von Eisen, Mangan und Ammoniak, Nitraten, Nitriten, Arsen, Chlor, Geruch und Trübung, mechanische Verunreinigungen, mikrobiologische Verunreinigungen und Nanoviren, Rückstände von Pestiziden, Herbiziden, Medikamenten, Antibiotika und Verhütungsmitteln, Regenwasseraufbereitung, Meer- und Ozeanwasseraufbereitung.",
@@ -137,16 +133,6 @@ const translations = {
       "Systeme zur Regenwasseraufbereitung",
     "products-water-treatment-systems-seawater-treatment":
       "Systeme zur Aufbereitung von Meer- und Ozeanwasser",
-    "products-kitchen-systems-membrane-filtration": "Membranfiltration",
-    "products-kitchen-systems-ultrafiltration": "Ultrafiltration",
-    "products-kitchen-systems-nanofiltration": "Nanofiltration",
-    "products-kitchen-systems-reverse-osmosis": "Umkehrosmose",
-    "products-kitchen-systems-water-dispensers":
-      "Wasserspender mit Wasseraufbereitungssystem für das Büro",
-    "products-kitchen-systems-uv-lamps":
-      "UV-Lampen - Wasserdesinfektion für Wasseraufbereitungssysteme in der Küche",
-    "products-kitchen-systems-chlorine-removal":
-      "Systeme zur Entfernung von Chlor",
     "references-title": "Referenzen",
     "reference1-text":
       "&quot;H2O Systems hat uns bei der Installation einer Wasseraufbereitungsanlage in unserem neuen Zuhause einen außergewöhnlichen Service geboten. Wir empfehlen sie jedem.&quot;",
@@ -157,6 +143,12 @@ const translations = {
     "reference3-text":
       "&quot;Lösungen von H2O Systems haben uns geholfen, unsere Produktionsprozesse erheblich zu verbessern. Ihr Ansatz war professionell und effizient.&quot;",
     "reference3-cite": "- Martin Smith, Industriekunde",
+    "reference4-text-de":
+      '"H2O Systems bietet innovative Lösungen, die an der Spitze der Wassertechnologie stehen. Ihre Produkte und Dienstleistungen sind ausgezeichnet."',
+    "reference4-cite-de": "- Analyst, Technologieanalyst",
+    "reference5-text-de":
+      '"Wir haben nur positive Erfahrungen mit H2O Systems gemacht. Ihre Wasseraufbereitungssysteme sind zuverlässig und effizient."',
+    "reference5-cite-de": "- Eva Kovačičová, Privatanwender",
     "footer-prava": "© 2024 H2O Systems. Alle Rechte vorbehalten.",
 
     "containers-title": "Containerstudien",
@@ -192,7 +184,7 @@ const translations = {
     "products-title": "Produkty",
     "products-container-systems-title": "Kontejnerové systémy úpravy vody",
     "products-container-systems-description":
-      "Kontejnery (požadovaný počet: simplex, duplex atd.) s komplexem systémů na úpravu vody podle typu vody, rozboru vody a podle individuálních požadavků klienta, energeticky nezávislé a mobilní. <br><br> Použití: odsolování mořské a oceánské vody a výroba pitné užitkové vody z jakéhokoli zdroje vody (řeka, jezero a další povrchová voda).",
+      "Kontejnery (požadovaný počet: simplex, duplex atd.) s komplexem systémů na úpravu vody podle typu vody, rozboru vody a podle individuálních požadavků klienta, energeticky nezávislé a mobilní. Podle místa použití lze klimatizaci izolovat a vybavit. <br><br> Použití: odsolování mořské a oceánské vody a výroba pitné užitkové vody z jakéhokoli zdroje vody (řeka, jezero a další povrchová voda).",
     "products-water-treatment-systems-title": "Systémy na úpravu vody",
     "products-water-treatment-systems-description":
       "Systémy na změkčení vody, odstranění železa, manganu a amoniaku, dusičnanů, dusitanů, arsenu, chlóru, zápachu a zákalu, mechanické znečištění, mikrobiologické znečištění a nanoviry, rezidua pesticidů, herbicidů, léčiv, antibiotik a antikoncepce, úprava dešťové vody, úprava mořské a oceánské vody.",
@@ -223,15 +215,6 @@ const translations = {
       "Systémy na úpravu dešťové vody",
     "products-water-treatment-systems-seawater-treatment":
       "Systémy na úpravu mořské a oceánské vody",
-    "products-kitchen-systems-membrane-filtration": "Membránová filtrace",
-    "products-kitchen-systems-ultrafiltration": "Ultrafiltrace",
-    "products-kitchen-systems-nanofiltration": "Nanofiltrace",
-    "products-kitchen-systems-reverse-osmosis": "Reverzní osmóza",
-    "products-kitchen-systems-water-dispensers":
-      "Výdejníky vody se systémem úpravy vody pro kanceláře",
-    "products-kitchen-systems-uv-lamps":
-      "UV lampy - dezinfekce vody pro systémy úpravy vody v kuchyni",
-    "products-kitchen-systems-chlorine-removal": "Systémy na odstranění chlóru",
     "references-title": "Reference",
     "reference1-text":
       "&quot;H2O Systems nám poskytla výjimečnou službu při instalaci systému úpravy vody v našem novém domě. Doporučujeme je všem.&quot;",
@@ -242,6 +225,12 @@ const translations = {
     "reference3-text":
       "&quot;Řešení od H2O Systems nám pomohla výrazně zlepšit naše výrobní procesy. Jejich přístup byl profesionální a efektivní.&quot;",
     "reference3-cite": "- Martin Richter, průmyslový klient",
+    "reference4-text-cz":
+      '"H2O Systems poskytuje inovativní řešení, které jsou na špičce technologie vody. Jejich produkty a služby jsou vynikající."',
+    "reference4-cite-cz": "- Analytik, Technologický analytik",
+    "reference5-text-cz":
+      '"S H2O Systems jsme měli jen pozitivní zkušenosti. Jejich systémy na úpravu vody jsou spolehlivé a efektivní."',
+    "reference5-cite-cz": "- Eva Kovačičová, Domácí uživatel",
     "footer-prava": "© 2024 H2O Systems. Všechna práva vyhrazena.",
 
     "containers-title": "Studie kontejnerů",
@@ -277,7 +266,7 @@ const translations = {
     "products-title": "Products",
     "products-container-systems-title": "Container Water Treatment Systems",
     "products-container-systems-description":
-      "Containers (required number: simplex, duplex, etc.) with a complete set of water treatment systems based on the type of water, water analysis, and individual client requirements, energy-independent and mobile. <br><br> Use: desalination of sea and ocean water and production of potable water from any water source (river, lake, and other surface water).",
+      "Containers (required number: simplex, duplex, etc.) with a complete set of water treatment systems based on the type of water, water analysis, and individual client requirements, energy-independent and mobile. The air conditioning can be insulated and equipped according to the place of use. <br><br> Use: desalination of sea and ocean water and production of potable water from any water source (river, lake, and other surface water).",
     "products-water-treatment-systems-title": "Water Treatment Systems",
     "products-water-treatment-systems-description":
       "Systems for water softening, removal of iron, manganese, and ammonia, nitrates, nitrites, arsenic, chlorine, odor, and turbidity, mechanical contamination, microbiological contamination and nanoviruses, residues of pesticides, herbicides, pharmaceuticals, antibiotics, and contraceptives, rainwater treatment, seawater and ocean water treatment.",
@@ -308,15 +297,6 @@ const translations = {
       "Rainwater treatment systems",
     "products-water-treatment-systems-seawater-treatment":
       "Seawater and ocean water treatment systems",
-    "products-kitchen-systems-membrane-filtration": "Membrane filtration",
-    "products-kitchen-systems-ultrafiltration": "Ultrafiltration",
-    "products-kitchen-systems-nanofiltration": "Nanofiltration",
-    "products-kitchen-systems-reverse-osmosis": "Reverse osmosis",
-    "products-kitchen-systems-water-dispensers":
-      "Water dispensers with water treatment system for office",
-    "products-kitchen-systems-uv-lamps":
-      "UV lamps - water disinfection for kitchen water treatment systems",
-    "products-kitchen-systems-chlorine-removal": "Chlorine removal systems",
     "references-title": "References",
     "reference1-text":
       "&quot;H2O Systems provided us with exceptional service in the installation of a water treatment system in our new home. We recommend them to everyone.&quot;",
@@ -327,6 +307,13 @@ const translations = {
     "reference3-text":
       "&quot;Solutions from H2O Systems helped us significantly improve our production processes. Their approach was professional and efficient.&quot;",
     "reference3-cite": "- Martin Smith, Industrial Client",
+    "reference4-text-en":
+      '"H2O Systems provides innovative solutions that are at the forefront of water technology. Their products and services are excellent."',
+    "reference4-cite-en": "- Analyst, Technology Analyst",
+    "reference5-text-en":
+      '"We have had only positive experiences with H2O Systems. Their water treatment systems are reliable and efficient."',
+    "reference5-cite-en": "- Eva Kovačičová, Home User",
+
     "footer-prava": "© 2024 H2O Systems. All rights reserved.",
 
     "containers-title": "Studies of Containers",
@@ -363,7 +350,7 @@ const translations = {
     "products-container-systems-title":
       "Sistemas de Tratamiento de Agua en Contenedor",
     "products-container-systems-description":
-      "Contenedores (número requerido: simplex, duplex, etc.) con un conjunto completo de sistemas de tratamiento de agua basados en el tipo de agua, análisis de agua y requisitos individuales del cliente, independientes de la energía y móviles. <br><br> Uso: desalinización de agua de mar y océano y producción de agua potable a partir de cualquier fuente de agua (río, lago y otras aguas superficiales).",
+      "Contenedores (número requerido: simplex, duplex, etc.) con un conjunto completo de sistemas de tratamiento de agua basados en el tipo de agua, análisis de agua y requisitos individuales del cliente, independientes de la energía y móviles. El aire acondicionado se puede aislar y equipar según el lugar de uso. <br><br> Uso: desalinización de agua de mar y océano y producción de agua potable a partir de cualquier fuente de agua (río, lago y otras aguas superficiales).",
     "products-water-treatment-systems-title": "Sistemas de Tratamiento de Agua",
     "products-water-treatment-systems-description":
       "Sistemas para ablandamiento de agua, eliminación de hierro, manganeso y amoníaco, nitratos, nitritos, arsénico, cloro, olor y turbidez, contaminación mecánica, contaminación microbiológica y nanovirus, residuos de pesticidas, herbicidas, productos farmacéuticos, antibióticos y anticonceptivos, tratamiento de agua de lluvia, tratamiento de agua de mar y agua de océano.",
@@ -395,16 +382,6 @@ const translations = {
       "Sistemas de tratamiento de agua de lluvia",
     "products-water-treatment-systems-seawater-treatment":
       "Sistemas de tratamiento de agua de mar y agua de océano",
-    "products-kitchen-systems-membrane-filtration": "Filtración de membrana",
-    "products-kitchen-systems-ultrafiltration": "Ultrafiltración",
-    "products-kitchen-systems-nanofiltration": "Nanofiltración",
-    "products-kitchen-systems-reverse-osmosis": "Osmosis inversa",
-    "products-kitchen-systems-water-dispensers":
-      "Dispensadores de agua con sistema de tratamiento de agua para oficina",
-    "products-kitchen-systems-uv-lamps":
-      "Lámparas UV - desinfección de agua para sistemas de tratamiento de agua en la cocina",
-    "products-kitchen-systems-chlorine-removal":
-      "Sistemas de eliminación de cloro",
     "references-title": "Referencias",
     "reference1-text":
       "&quot;H2O Systems nos proporcionó un servicio excepcional en la instalación de un sistema de tratamiento de agua en nuestra nueva casa. Los recomendamos a todos.&quot;",
@@ -415,6 +392,12 @@ const translations = {
     "reference3-text":
       "&quot;Las soluciones de H2O Systems nos ayudaron a mejorar significativamente nuestros procesos de producción. Su enfoque fue profesional y eficiente.&quot;",
     "reference3-cite": "- Martin Smith, Cliente Industrial",
+    "reference4-text-es":
+      '"H2O Systems ofrece soluciones innovadoras que están a la vanguardia de la tecnología del agua. Sus productos y servicios son excelentes."',
+    "reference4-cite-es": "- Analista, Analista de Tecnología",
+    "reference5-text-es":
+      '"Hemos tenido solo experiencias positivas con H2O Systems. Sus sistemas de tratamiento de agua son confiables y eficientes."',
+    "reference5-cite-es": "- Eva Kovačičová, Usuario doméstico",
     "footer-prava": "© 2024 H2O Systems. Todos los derechos reservados.",
 
     "containers-title": "Estudios de Contenedores",
@@ -439,11 +422,13 @@ const links = document.querySelectorAll(".nav-links li");
 
 hamburger.addEventListener("click", () => {
   navLinks.classList.toggle("active");
+  hamburger.classList.toggle("open"); 
 });
 
 links.forEach((link) => {
   link.addEventListener("click", () => {
     navLinks.classList.remove("active");
+    hamburger.classList.remove("open"); 
   });
 });
 
@@ -515,27 +500,26 @@ var currentImageIndex = 0;
 var imageElement = document.getElementById("rotatingImage");
 var loadingSpinner = document.getElementById("loading-spinner");
 
-// Initial load
 function loadImage() {
   var img = new Image();
   img.src = images[currentImageIndex];
   img.onload = function () {
     imageElement.src = img.src;
-    imageElement.style.opacity = 1; // Fade in the image
-    loadingSpinner.style.display = "none"; // Hide spinner
+    imageElement.style.opacity = 1; 
+    loadingSpinner.style.display = "none"; 
   };
   img.onerror = function () {
-    // Handle error if image fails to load
+
     console.error("Failed to load image:", img.src);
   };
 }
 
-// Load the first image
+
 loadImage();
 
 setInterval(function () {
-  imageElement.style.opacity = 0; // Fade out the image
-  loadingSpinner.style.display = "block"; // Show spinner
+  imageElement.style.opacity = 0;
+  loadingSpinner.style.display = "block"; 
   currentImageIndex = (currentImageIndex + 1) % images.length;
-  setTimeout(loadImage, 500); // Load the next image after the fade-out
-}, 3000);
+  setTimeout(loadImage, 500);
+}, 5000);

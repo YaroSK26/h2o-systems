@@ -169,19 +169,42 @@ nav ul li :hover::after {
 
 
 .hamburger {
-    display: none;
+    display: flex;
     flex-direction: column;
     cursor: pointer;
     gap: 5px;
     position: fixed;
     right: 20px;
     z-index: 1100;
+    transition: all 0.3s ease;
 }
 
 .hamburger div {
     width: 25px;
     height: 3px;
     background-color: #fff;
+    transition: all 0.3s ease;
+}
+
+.hamburger.open div:nth-child(1) {
+    transform: rotate(45deg) translate(8px, 5px);
+}
+
+.hamburger.open div:nth-child(2) {
+    opacity: 0;
+}
+
+.hamburger.open div:nth-child(3) {
+    transform: rotate(-45deg) translate(5px, -5px);
+}
+
+.nav-links {
+    display: none;
+    flex-direction: column;
+}
+
+.nav-links.active {
+    display: flex;
 }
 
 /* Hero Section */
@@ -487,11 +510,6 @@ nav ul li :hover::after {
         height: 100vh;
     }
 
-    .hamburger {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-    }
 
     .product-list, .reference-list, .about-flex {
         flex-direction: column;
