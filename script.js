@@ -1,6 +1,6 @@
 const translations = {
   sk: {
-    link1: "Kto Sme?",
+    link1: "O nás",
     link2: "Produkty a Služby",
     link3: "Referencie",
 
@@ -15,7 +15,7 @@ const translations = {
       "Poskytujeme odborné poradenstvo, návrhy, montáže, servis systémov na úpravu kvality vody, podľa individuálnych požiadaviek našich zákazníkov.",
     "about-description-3":
       "Od začiatku nášho pôsobenia na trhu sme navrhli a zrealizovali tisíce úprav vody pre našich spokojných klientov. Pridajte sa aj vy k tejto skupine.",
-    "products-title": "Produkty",
+    "products-title": "Produkty a Služby",
     "products-container-systems-title": "Kontajnerové systémy úpravy vody",
     "products-container-systems-description":
       "Kontajnery (požadovaného počtu: simplex, duplex atď.) s komplexom systémov na úpravu vody podľa typu vody, rozboru vody a podľa individuálnych požiadaviek klienta, energeticky nezávislé a mobilné. Podľa miesta použitia sa dá zaizolovať a vybaviť klimatizácia. <br><br>  Použitie: odsoľovanie morskej a oceánskej vody a výroba pitnej úžitkovej vody z akéhokoľvek zdroja vody (rieka, jazero a iná povrchová voda).",
@@ -82,7 +82,7 @@ const translations = {
     "stôl kontajnerov10": "15 700 l/h",
   },
   de: {
-    link1: "Wer sind wir?",
+    link1: "Über uns",
     link2: "Produkte und Dienstleistungen",
     link3: "Referenzen",
 
@@ -97,7 +97,7 @@ const translations = {
       "Wir bieten kompetente Beratung, Planung, Installation und Service von Wasserqualitätsaufbereitungssystemen entsprechend den individuellen Anforderungen unserer Kunden.",
     "about-description-3":
       "Seit Beginn unserer Markttätigkeit haben wir Tausende von Wasseraufbereitungen für unsere zufriedenen Kunden konzipiert und umgesetzt.Treten Sie auch dieser Gruppe bei.",
-    "products-title": "Produkte",
+    "products-title": "Produkte und Dienstleistungen",
     "products-container-systems-title":
       "Containergestützte Wasseraufbereitungssysteme",
     "products-container-systems-description":
@@ -166,7 +166,7 @@ const translations = {
     "containers-table10": "15.700 l/h",
   },
   cz: {
-    link1: "Kdo jsme?",
+    link1: "O nás",
     link2: "Produkty a služby",
     link3: "Reference",
 
@@ -181,7 +181,7 @@ const translations = {
       "Poskytujeme odborné poradenství, návrh, instalaci, servis systémů úpravy kvality vody podle individuálních požadavků našich zákazníků.",
     "about-description-3":
       "Od počátku našeho působení na trhu jsme navrhli a realizovali tisíce úpraven vody pro naše spokojené zákazníky. Připojte se k této skupině.",
-    "products-title": "Produkty",
+    "products-title": "Produkty a Služby",
     "products-container-systems-title": "Kontejnerové systémy úpravy vody",
     "products-container-systems-description":
       "Kontejnery (požadovaný počet: simplex, duplex atd.) s komplexem systémů na úpravu vody podle typu vody, rozboru vody a podle individuálních požadavků klienta, energeticky nezávislé a mobilní. Podle místa použití lze klimatizaci izolovat a vybavit. <br><br> Použití: odsolování mořské a oceánské vody a výroba pitné užitkové vody z jakéhokoli zdroje vody (řeka, jezero a další povrchová voda).",
@@ -248,7 +248,7 @@ const translations = {
     "containers-table10": "15 700 l/h",
   },
   en: {
-    link1: "Who Are We?",
+    link1: "About us",
     link2: "Products and Services",
     link3: "References",
 
@@ -263,7 +263,7 @@ const translations = {
       "We provide expert advice, design, installation, service of water quality treatment systems, according to the individual requirements of our customers.",
     "about-description-3":
       "Since the beginning of our presence on the market, we have designed and implemented thousands of water treatments for our satisfied clients. Join this group.",
-    "products-title": "Products",
+    "products-title": "Products and Services",
     "products-container-systems-title": "Container Water Treatment Systems",
     "products-container-systems-description":
       "Containers (required number: simplex, duplex, etc.) with a complete set of water treatment systems based on the type of water, water analysis, and individual client requirements, energy-independent and mobile. The air conditioning can be insulated and equipped according to the place of use. <br><br> Use: desalination of sea and ocean water and production of potable water from any water source (river, lake, and other surface water).",
@@ -331,7 +331,7 @@ const translations = {
     "containers-table10": "15,700 l/h",
   },
   es: {
-    link1: "¿Quiénes somos?",
+    link1: "Sobre nosotros",
     link2: "Productos y Servicios",
     link3: "Referencias",
 
@@ -346,7 +346,7 @@ const translations = {
       "Ofrecemos asesoramiento experto, diseño, instalación, servicio de sistemas de tratamiento de calidad de agua, de acuerdo con los requisitos individuales de nuestros clientes.",
     "about-description-3":
       "Desde el comienzo de nuestra presencia en el mercado, hemos diseñado e implementado miles de tratamientos de agua para nuestros clientes satisfechos. Únete a este grupo.",
-    "products-title": "Productos",
+    "products-title": "Productos y servicios",
     "products-container-systems-title":
       "Sistemas de Tratamiento de Agua en Contenedor",
     "products-container-systems-description":
@@ -487,8 +487,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
 
-
-
 var images = [
   "./images/container1.png",
   "./images/container2.png",
@@ -496,30 +494,31 @@ var images = [
   "./images/container4.png",
 ];
 
+// Preload images
+images.forEach((src) => {
+  var img = new Image();
+  img.src = src;
+});
+
 var currentImageIndex = 0;
 var imageElement = document.getElementById("rotatingImage");
-var loadingSpinner = document.getElementById("loading-spinner");
 
 function loadImage() {
   var img = new Image();
   img.src = images[currentImageIndex];
   img.onload = function () {
     imageElement.src = img.src;
-    imageElement.style.opacity = 1; 
-    loadingSpinner.style.display = "none"; 
+    imageElement.style.opacity = 1;
   };
   img.onerror = function () {
-
     console.error("Failed to load image:", img.src);
   };
 }
-
 
 loadImage();
 
 setInterval(function () {
   imageElement.style.opacity = 0;
-  loadingSpinner.style.display = "block"; 
   currentImageIndex = (currentImageIndex + 1) % images.length;
   setTimeout(loadImage, 500);
 }, 5000);
