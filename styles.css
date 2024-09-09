@@ -361,6 +361,12 @@ nav ul li :hover::after {
     flex-wrap: wrap;
 
 }
+.containers-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 
 .containers-image img{
     width: 320px;

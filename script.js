@@ -492,6 +492,8 @@ var images = [
   "./images/container2.png",
   "./images/container3.png",
   "./images/container4.png",
+  "./images/container5.png",
+  "./images/container6.webp",
 ];
 
 // Preload images
