@@ -49,6 +49,16 @@ const translations = {
       "Systémy na úpravu dažďovej vody",
     "products-water-treatment-systems-seawater-treatment":
       "Systémy na úpravu morskej a oceánskej vody",
+    "products-kitchen-systems-membrane-filtration": "Membránová filtrácia",
+    "products-kitchen-systems-ultrafiltration": "1. Ultrafiltrácia",
+    "products-kitchen-systems-nanofiltration": "2. Nanofiltrácia",
+    "products-kitchen-systems-reverse-osmosis": "3. Reverzná osmóza",
+    "products-kitchen-systems-water-dispensers":
+      "Výdajníky vody so systémom úpravy vody pre office",
+    "products-kitchen-systems-uv-lamps":
+      "UV lampy - dezinfekcie vody k systémom úpravy vody v kuchyni",
+    "products-kitchen-systems-chlorine-removal":
+      "Systémy na odstránenie chlóru",
     "references-title": "Referencie",
     "reference1-text":
       "&quot;Spoločnosť H2O Systems nám poskytla výnimočnú službu pri inštalácii systému na úpravy vody v našom novom dome. Odporúčame ich každému.&quot;",
@@ -57,15 +67,17 @@ const translations = {
       "&quot;S H2O Systems spolupracujeme už niekoľko rokov. Vždy sa môžeme spoľahnúť na ich odbornosť a spoľahlivosť.&quot;",
     "reference2-cite": "- Spokojný zakaznik ",
     "reference3-text":
-      "&quot;S H2O Systems spolupracujeme už niekoľko rokov. Vždy sa môžeme spoľahnúť na ich odbornosť a spoľahlivosť.&quot;",
+      "&quot;Riešenie od H2O Systems nám pomohlo výrazne zlepšiť naše výrobné procesy. Ich prístup bol profesionálny a efektívny.&quot;",
     "reference3-cite": "- Martin Richter, Priemyselný klient",
-    "reference4-text-sk":
+    "reference4-text":
       '"H2O Systems poskytuje inovatívne riešenia, ktoré sú na špičke technológie vody. Ich produkty a služby sú vynikajúce."',
-    "reference4-cite-sk": "- Analytik, Technologický analytik",
-    "reference5-text-sk":
+    "reference4-cite": "- Analytik, Technologický analytik",
+    "reference5-text":
       '"S H2O Systems sme mali len pozitívne skúsenosti. Ich systémy na úpravu vody sú spoľahlivé a efektívne."',
-    "reference5-cite-sk": "- Eva Kovačičová, Domáci užívateľ",
+    "reference5-cite": "- Eva Kovačičová, Domáci užívateľ",
     "footer-prava": "© 2024 H2O Systems. Všetky práva vyhradené.",
+    author:
+      '<p data-translate="author">Stránku vytvoril <a href="https://www.jaroslav.website/" style="text-decoration: underline;" target="_blank">Jaroslav Barabáš</a></p>',
 
     "containers-title": "Štúdie kontajnerov",
     "containers-title2":
@@ -75,11 +87,11 @@ const translations = {
     "containers-table3": "Autor",
     "containers-table4": "J. Hospodár",
     "containers-table5": "Tok",
-    "kontajnerový stôl6": "13500 – 10000 l/h",
+    "containers-table6": "13500 – 10000 l/h",
     "containers-table7": "Prevádzkový tlak",
     "containers-table8": "11,4 bar",
     "containers-table9": "Spotreba surovej vody",
-    "stôl kontajnerov10": "15 700 l/h",
+    "containers-table10": "15 700 l/h",
   },
   de: {
     link1: "Über uns",
@@ -133,23 +145,35 @@ const translations = {
       "Systeme zur Regenwasseraufbereitung",
     "products-water-treatment-systems-seawater-treatment":
       "Systeme zur Aufbereitung von Meer- und Ozeanwasser",
+    "products-kitchen-systems-membrane-filtration": "Membránová filtrácia",
+    "products-kitchen-systems-ultrafiltration": "1. Ultrafiltrácia",
+    "products-kitchen-systems-nanofiltration": "2. Nanofiltrácia",
+    "products-kitchen-systems-reverse-osmosis": "3. Reverzná osmóza",
+    "products-kitchen-systems-water-dispensers":
+      "Výdajníky vody so systémom úpravy vody pre office",
+    "products-kitchen-systems-uv-lamps":
+      "UV lampy - dezinfekcie vody k systémom úpravy vody v kuchyni",
+    "products-kitchen-systems-chlorine-removal":
+      "Systémy na odstránenie chlóru",
     "references-title": "Referenzen",
     "reference1-text":
       "&quot;H2O Systems hat uns bei der Installation einer Wasseraufbereitungsanlage in unserem neuen Zuhause einen außergewöhnlichen Service geboten. Wir empfehlen sie jedem.&quot;",
-    "reference1-cite": "- John Doe, Privatkunde",
+    "reference1-cite": "- Ján Novák, Privatkunde",
     "reference2-text":
       "&quot;Wir arbeiten seit mehreren Jahren mit H2O Systems zusammen. Wir können uns immer auf ihre Expertise und Zuverlässigkeit verlassen.&quot;",
     "reference2-cite": "- Zufriedener Kunde",
     "reference3-text":
       "&quot;Lösungen von H2O Systems haben uns geholfen, unsere Produktionsprozesse erheblich zu verbessern. Ihr Ansatz war professionell und effizient.&quot;",
-    "reference3-cite": "- Martin Smith, Industriekunde",
-    "reference4-text-de":
+    "reference3-cite": "- Martin Richter, Industriekunde",
+    "reference4-text":
       '"H2O Systems bietet innovative Lösungen, die an der Spitze der Wassertechnologie stehen. Ihre Produkte und Dienstleistungen sind ausgezeichnet."',
-    "reference4-cite-de": "- Analyst, Technologieanalyst",
-    "reference5-text-de":
+    "reference4-cite": "- Analyst, Technologieanalyst",
+    "reference5-text":
       '"Wir haben nur positive Erfahrungen mit H2O Systems gemacht. Ihre Wasseraufbereitungssysteme sind zuverlässig und effizient."',
-    "reference5-cite-de": "- Eva Kovačičová, Privatanwender",
+    "reference5-cite": "- Eva Kovačičová, Privatanwender",
     "footer-prava": "© 2024 H2O Systems. Alle Rechte vorbehalten.",
+    author:
+      '<p data-translate="author">Website erstellt von <a href="https://www.jaroslav.website/" style="text-decoration: underline;" target="_blank">Jaroslav Barabáš</a></p>',
 
     "containers-title": "Containerstudien",
     "containers-title2":
@@ -215,23 +239,34 @@ const translations = {
       "Systémy na úpravu dešťové vody",
     "products-water-treatment-systems-seawater-treatment":
       "Systémy na úpravu mořské a oceánské vody",
+    "products-kitchen-systems-membrane-filtration": "Membránová filtrace",
+    "products-kitchen-systems-ultrafiltration": "1. Ultrafiltrace",
+    "products-kitchen-systems-nanofiltration": "2. Nanofiltrace",
+    "products-kitchen-systems-reverse-osmosis": "3. Reverzní osmóza",
+    "products-kitchen-systems-water-dispensers":
+      "Výdejníky vody se systémem úpravy vody pro kanceláře",
+    "products-kitchen-systems-uv-lamps":
+      "UV lampy - dezinfekce vody pro systémy úpravy vody v kuchyni",
+    "products-kitchen-systems-chlorine-removal": "Systémy na odstranění chlóru",
     "references-title": "Reference",
     "reference1-text":
       "&quot;H2O Systems nám poskytla výjimečnou službu při instalaci systému úpravy vody v našem novém domě. Doporučujeme je všem.&quot;",
-    "reference1-cite": "- Jan Novák, soukromý zákazník",
+    "reference1-cite": "- Ján Novák, soukromý zákazník",
     "reference2-text":
       "&quot;S H2O Systems spolupracujeme již několik let. Vždy se můžeme spolehnout na jejich odbornost a spolehlivost.&quot;",
     "reference2-cite": "- Spokojený zakaznik",
     "reference3-text":
       "&quot;Řešení od H2O Systems nám pomohla výrazně zlepšit naše výrobní procesy. Jejich přístup byl profesionální a efektivní.&quot;",
     "reference3-cite": "- Martin Richter, průmyslový klient",
-    "reference4-text-cz":
+    "reference4-text":
       '"H2O Systems poskytuje inovativní řešení, které jsou na špičce technologie vody. Jejich produkty a služby jsou vynikající."',
-    "reference4-cite-cz": "- Analytik, Technologický analytik",
-    "reference5-text-cz":
+    "reference4-cite": "- Analytik, Technologický analytik",
+    "reference5-text":
       '"S H2O Systems jsme měli jen pozitivní zkušenosti. Jejich systémy na úpravu vody jsou spolehlivé a efektivní."',
-    "reference5-cite-cz": "- Eva Kovačičová, Domácí uživatel",
+    "reference5-cite": "- Eva Kovačičová, Domácí uživatel",
     "footer-prava": "© 2024 H2O Systems. Všechna práva vyhrazena.",
+    author:
+      '<p data-translate="author">Stránku   vytvořil <a href="https://www.jaroslav.website/" style="text-decoration: underline;" target="_blank">Jaroslav Barabáš</a></p>',
 
     "containers-title": "Studie kontejnerů",
     "containers-title2":
@@ -297,6 +332,15 @@ const translations = {
       "Rainwater treatment systems",
     "products-water-treatment-systems-seawater-treatment":
       "Seawater and ocean water treatment systems",
+    "products-kitchen-systems-membrane-filtration": "Membrane filtration",
+    "products-kitchen-systems-ultrafiltration": "1. Ultrafiltration",
+    "products-kitchen-systems-nanofiltration": "2. Nanofiltration",
+    "products-kitchen-systems-reverse-osmosis": "3. Reverse osmosis",
+    "products-kitchen-systems-water-dispensers":
+      "Water dispensers with water treatment system for office",
+    "products-kitchen-systems-uv-lamps":
+      "UV lamps - water disinfection for kitchen water treatment systems",
+    "products-kitchen-systems-chlorine-removal": "Chlorine removal systems",
     "references-title": "References",
     "reference1-text":
       "&quot;H2O Systems provided us with exceptional service in the installation of a water treatment system in our new home. We recommend them to everyone.&quot;",
@@ -306,15 +350,17 @@ const translations = {
     "reference2-cite": "- Satisfied customer",
     "reference3-text":
       "&quot;Solutions from H2O Systems helped us significantly improve our production processes. Their approach was professional and efficient.&quot;",
-    "reference3-cite": "- Martin Smith, Industrial Client",
-    "reference4-text-en":
+    "reference3-cite": "- Martin Richter, Industrial Client",
+    "reference4-text":
       '"H2O Systems provides innovative solutions that are at the forefront of water technology. Their products and services are excellent."',
-    "reference4-cite-en": "- Analyst, Technology Analyst",
-    "reference5-text-en":
+    "reference4-cite": "- Analyst, Technology Analyst",
+    "reference5-text":
       '"We have had only positive experiences with H2O Systems. Their water treatment systems are reliable and efficient."',
-    "reference5-cite-en": "- Eva Kovačičová, Home User",
+    "reference5-cite": "- Eva Kovačičová, Home User",
 
     "footer-prava": "© 2024 H2O Systems. All rights reserved.",
+    author:
+      '<p data-translate="author">Website created by <a href="https://www.jaroslav.website/" style="text-decoration: underline;" target="_blank">Jaroslav Barabáš</a></p>',
 
     "containers-title": "Studies of Containers",
     "containers-title2":
@@ -382,23 +428,35 @@ const translations = {
       "Sistemas de tratamiento de agua de lluvia",
     "products-water-treatment-systems-seawater-treatment":
       "Sistemas de tratamiento de agua de mar y agua de océano",
+    "products-kitchen-systems-membrane-filtration": "Filtración de membrana",
+    "products-kitchen-systems-ultrafiltration": "1. Ultrafiltración",
+    "products-kitchen-systems-nanofiltration": "2. Nanofiltración",
+    "products-kitchen-systems-reverse-osmosis": "3. Osmosis inversa",
+    "products-kitchen-systems-water-dispensers":
+      "Dispensadores de agua con sistema de tratamiento de agua para oficina",
+    "products-kitchen-systems-uv-lamps":
+      "Lámparas UV - desinfección de agua para sistemas de tratamiento de agua en la cocina",
+    "products-kitchen-systems-chlorine-removal":
+      "Sistemas de eliminación de cloro",
     "references-title": "Referencias",
     "reference1-text":
       "&quot;H2O Systems nos proporcionó un servicio excepcional en la instalación de un sistema de tratamiento de agua en nuestra nueva casa. Los recomendamos a todos.&quot;",
-    "reference1-cite": "- John Doe, Cliente Privado",
+    "reference1-cite": "- Ján Novák, Cliente Privado",
     "reference2-text":
       "&quot;Hemos estado trabajando con H2O Systems durante varios años. Siempre podemos confiar en su experiencia y fiabilidad.&quot;",
     "reference2-cite": "- Cliente satisfecho",
     "reference3-text":
       "&quot;Las soluciones de H2O Systems nos ayudaron a mejorar significativamente nuestros procesos de producción. Su enfoque fue profesional y eficiente.&quot;",
-    "reference3-cite": "- Martin Smith, Cliente Industrial",
-    "reference4-text-es":
+    "reference3-cite": "- Martin Richter, Cliente Industrial",
+    "reference4-text":
       '"H2O Systems ofrece soluciones innovadoras que están a la vanguardia de la tecnología del agua. Sus productos y servicios son excelentes."',
-    "reference4-cite-es": "- Analista, Analista de Tecnología",
-    "reference5-text-es":
+    "reference4-cite": "- Analista, Analista de Tecnología",
+    "reference5-text":
       '"Hemos tenido solo experiencias positivas con H2O Systems. Sus sistemas de tratamiento de agua son confiables y eficientes."',
-    "reference5-cite-es": "- Eva Kovačičová, Usuario doméstico",
+    "reference5-cite": "- Eva Kovačičová, Usuario doméstico",
     "footer-prava": "© 2024 H2O Systems. Todos los derechos reservados.",
+    author:
+      '<p data-translate="author">Sitio web creado por <a href="https://www.jaroslav.website/" style="text-decoration: underline;" target="_blank">Jaroslav Barabáš</a></p>',
 
     "containers-title": "Estudios de Contenedores",
     "containers-title2":
