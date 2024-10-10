@@ -92,6 +92,7 @@ const translations = {
     "containers-table8": "11,4 bar",
     "containers-table9": "Spotreba surovej vody",
     "containers-table10": "15 700 l/h",
+    "footer-cislo": " +421 918 516 375",
   },
   de: {
     link1: "Über uns",
@@ -188,6 +189,7 @@ const translations = {
     "containers-table8": "11,4 bar",
     "containers-table9": "Rohwasserverbrauch",
     "containers-table10": "15.700 l/h",
+    "footer-cislo": "",
   },
   cz: {
     link1: "O nás",
@@ -281,6 +283,7 @@ const translations = {
     "containers-table8": "11,4 bar",
     "containers-table9": "Spotřeba surové vody",
     "containers-table10": "15 700 l/h",
+    "footer-cislo": "",
   },
   en: {
     link1: "About us",
@@ -375,6 +378,7 @@ const translations = {
     "containers-table8": "11.4 bar",
     "containers-table9": "Raw water consumption",
     "containers-table10": "15,700 l/h",
+    "footer-cislo": "",
   },
   es: {
     link1: "Sobre nosotros",
@@ -471,6 +475,7 @@ const translations = {
     "containers-table8": "11,4 bar",
     "containers-table9": "Consumo de agua cruda",
     "containers-table10": "15.700 l/h",
+    "footer-cislo": "",
   },
 };
 
