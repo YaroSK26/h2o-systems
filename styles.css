@@ -406,7 +406,6 @@ nav ul li :hover::after {
     color:var(--primary-color) ;
 }
 
-
 /* References Section */
 .references {
     padding: 60px 20px;
