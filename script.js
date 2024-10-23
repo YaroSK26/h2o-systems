@@ -61,20 +61,20 @@ const translations = {
       "Systémy na odstránenie chlóru",
     "references-title": "Referencie",
     "reference1-text":
-      "&quot;Spoločnosť H2O Systems nám poskytla výnimočnú službu pri inštalácii systému na úpravy vody v našom novom dome. Odporúčame ich každému.&quot;",
-    "reference1-cite": "- Ján Novák, súkromný zákazník",
+      "&quot;Spoločnosť H2O Systems mi poskytla výnimočnú službu pri inštalácii systému na úpravy vody v našom novom dome. Odporúčame ich každému.&quot;",
+    "reference1-cite": "- Tomáš Malý, zákazník",
     "reference2-text":
       "&quot;S H2O Systems spolupracujeme už niekoľko rokov. Vždy sa môžeme spoľahnúť na ich odbornosť a spoľahlivosť.&quot;",
-    "reference2-cite": "- Spokojný zakaznik ",
+    "reference2-cite": "- Odberateľ ",
     "reference3-text":
       "&quot;Riešenie od H2O Systems nám pomohlo výrazne zlepšiť naše výrobné procesy. Ich prístup bol profesionálny a efektívny.&quot;",
-    "reference3-cite": "- Martin Richter, Priemyselný klient",
+    "reference3-cite": "- Martin Richter, klient",
     "reference4-text":
       '"H2O Systems poskytuje inovatívne riešenia, ktoré sú na špičke technológie vody. Ich produkty a služby sú vynikajúce."',
-    "reference4-cite": "- Analytik, Technologický analytik",
+    "reference4-cite": "- Technologický analytik",
     "reference5-text":
       '"S H2O Systems sme mali len pozitívne skúsenosti. Ich systémy na úpravu vody sú spoľahlivé a efektívne."',
-    "reference5-cite": "- Eva Kovačičová, Domáci užívateľ",
+    "reference5-cite": "- Eva Kovačičová",
     "footer-prava": "© 2024 H2O Systems. Všetky práva vyhradené.",
     author:
       '<p data-translate="author">Stránku vytvoril <a href="https://www.jaroslav.website/" style="text-decoration: underline;" target="_blank">Jaroslav Barabáš</a></p>',
@@ -92,7 +92,7 @@ const translations = {
     "containers-table8": "11,4 bar",
     "containers-table9": "Spotreba surovej vody",
     "containers-table10": "15 700 l/h",
-    "footer-cislo": " +421 918 516 375",
+    "footer-cislo": " +421 918 516 375 , +420 725 532 198",
   },
   de: {
     link1: "Über uns",
@@ -158,20 +158,20 @@ const translations = {
       "Systémy na odstránenie chlóru",
     "references-title": "Referenzen",
     "reference1-text":
-      "&quot;H2O Systems hat uns bei der Installation einer Wasseraufbereitungsanlage in unserem neuen Zuhause einen außergewöhnlichen Service geboten. Wir empfehlen sie jedem.&quot;",
-    "reference1-cite": "- Ján Novák, Privatkunde",
+      "&quot;H2O Systems hat mir bei der Installation eines Wasseraufbereitungssystems in unserem neuen Haus einen hervorragenden Service geboten. Wir würden sie jedem empfehlen.&quot;",
+    "reference1-cite": "- Tomáš Malý, Kunde",
     "reference2-text":
       "&quot;Wir arbeiten seit mehreren Jahren mit H2O Systems zusammen. Wir können uns immer auf ihre Expertise und Zuverlässigkeit verlassen.&quot;",
-    "reference2-cite": "- Zufriedener Kunde",
+    "reference2-cite": "- Abonnent",
     "reference3-text":
       "&quot;Lösungen von H2O Systems haben uns geholfen, unsere Produktionsprozesse erheblich zu verbessern. Ihr Ansatz war professionell und effizient.&quot;",
-    "reference3-cite": "- Martin Richter, Industriekunde",
+    "reference3-cite": "- Martin Richter, Kunde",
     "reference4-text":
       '"H2O Systems bietet innovative Lösungen, die an der Spitze der Wassertechnologie stehen. Ihre Produkte und Dienstleistungen sind ausgezeichnet."',
-    "reference4-cite": "- Analyst, Technologieanalyst",
+    "reference4-cite": "- Technologieanalyst",
     "reference5-text":
       '"Wir haben nur positive Erfahrungen mit H2O Systems gemacht. Ihre Wasseraufbereitungssysteme sind zuverlässig und effizient."',
-    "reference5-cite": "- Eva Kovačičová, Privatanwender",
+    "reference5-cite": "- Eva Kovačičová",
     "footer-prava": "© 2024 H2O Systems. Alle Rechte vorbehalten.",
     author:
       '<p data-translate="author">Website erstellt von <a href="https://www.jaroslav.website/" style="text-decoration: underline;" target="_blank">Jaroslav Barabáš</a></p>',
@@ -252,20 +252,20 @@ const translations = {
     "products-kitchen-systems-chlorine-removal": "Systémy na odstranění chlóru",
     "references-title": "Reference",
     "reference1-text":
-      "&quot;H2O Systems nám poskytla výjimečnou službu při instalaci systému úpravy vody v našem novém domě. Doporučujeme je všem.&quot;",
-    "reference1-cite": "- Ján Novák, soukromý zákazník",
+      "&quot;H2O Systems mi poskytla výjimečnou službu při instalaci systému úpravy vody v našem novém domě. Doporučujeme je všem.&quot;",
+    "reference1-cite": "- Tomáš Malý, zákazník",
     "reference2-text":
       "&quot;S H2O Systems spolupracujeme již několik let. Vždy se můžeme spolehnout na jejich odbornost a spolehlivost.&quot;",
-    "reference2-cite": "- Spokojený zakaznik",
+    "reference2-cite": "- Odběratel",
     "reference3-text":
       "&quot;Řešení od H2O Systems nám pomohla výrazně zlepšit naše výrobní procesy. Jejich přístup byl profesionální a efektivní.&quot;",
-    "reference3-cite": "- Martin Richter, průmyslový klient",
+    "reference3-cite": "- Martin Richter, klient",
     "reference4-text":
       '"H2O Systems poskytuje inovativní řešení, které jsou na špičce technologie vody. Jejich produkty a služby jsou vynikající."',
-    "reference4-cite": "- Analytik, Technologický analytik",
+    "reference4-cite": "- Technologický analytik",
     "reference5-text":
       '"S H2O Systems jsme měli jen pozitivní zkušenosti. Jejich systémy na úpravu vody jsou spolehlivé a efektivní."',
-    "reference5-cite": "- Eva Kovačičová, Domácí uživatel",
+    "reference5-cite": "- Eva Kovačičová",
     "footer-prava": "© 2024 H2O Systems. Všechna práva vyhrazena.",
     author:
       '<p data-translate="author">Stránku   vytvořil <a href="https://www.jaroslav.website/" style="text-decoration: underline;" target="_blank">Jaroslav Barabáš</a></p>',
@@ -283,7 +283,7 @@ const translations = {
     "containers-table8": "11,4 bar",
     "containers-table9": "Spotřeba surové vody",
     "containers-table10": "15 700 l/h",
-    "footer-cislo": "",
+    "footer-cislo": " +420 725 532 198",
   },
   en: {
     link1: "About us",
@@ -346,20 +346,20 @@ const translations = {
     "products-kitchen-systems-chlorine-removal": "Chlorine removal systems",
     "references-title": "References",
     "reference1-text":
-      "&quot;H2O Systems provided us with exceptional service in the installation of a water treatment system in our new home. We recommend them to everyone.&quot;",
-    "reference1-cite": "- John Doe, Private Client",
+      "&quot;H2O Systems provided me with exceptional service in the installation of a water treatment system in our new home. We recommend them to everyone.&quot;",
+    "reference1-cite": "- Tomáš Malý, customer",
     "reference2-text":
       "&quot;We have been working with H2O Systems for several years. We can always rely on their expertise and reliability.&quot;",
-    "reference2-cite": "- Satisfied customer",
+    "reference2-cite": "- Subscriber",
     "reference3-text":
       "&quot;Solutions from H2O Systems helped us significantly improve our production processes. Their approach was professional and efficient.&quot;",
-    "reference3-cite": "- Martin Richter, Industrial Client",
+    "reference3-cite": "- Martin Richter, Client",
     "reference4-text":
       '"H2O Systems provides innovative solutions that are at the forefront of water technology. Their products and services are excellent."',
-    "reference4-cite": "- Analyst, Technology Analyst",
+    "reference4-cite": "- Technology Analyst",
     "reference5-text":
       '"We have had only positive experiences with H2O Systems. Their water treatment systems are reliable and efficient."',
-    "reference5-cite": "- Eva Kovačičová, Home User",
+    "reference5-cite": "- Eva Kovačičová",
 
     "footer-prava": "© 2024 H2O Systems. All rights reserved.",
     author:
@@ -444,20 +444,20 @@ const translations = {
       "Sistemas de eliminación de cloro",
     "references-title": "Referencias",
     "reference1-text":
-      "&quot;H2O Systems nos proporcionó un servicio excepcional en la instalación de un sistema de tratamiento de agua en nuestra nueva casa. Los recomendamos a todos.&quot;",
-    "reference1-cite": "- Ján Novák, Cliente Privado",
+      "&quot;H2O Systems me proporcionó un servicio excepcional en la instalación de un sistema de tratamiento de agua en nuestra nueva casa. Los recomendaríamos a cualquiera.&quot;",
+    "reference1-cite": "- Tomáš Malý, cliente",
     "reference2-text":
       "&quot;Hemos estado trabajando con H2O Systems durante varios años. Siempre podemos confiar en su experiencia y fiabilidad.&quot;",
-    "reference2-cite": "- Cliente satisfecho",
+    "reference2-cite": "- Comprador",
     "reference3-text":
       "&quot;Las soluciones de H2O Systems nos ayudaron a mejorar significativamente nuestros procesos de producción. Su enfoque fue profesional y eficiente.&quot;",
-    "reference3-cite": "- Martin Richter, Cliente Industrial",
+    "reference3-cite": "- Martin Richter, Cliente ",
     "reference4-text":
       '"H2O Systems ofrece soluciones innovadoras que están a la vanguardia de la tecnología del agua. Sus productos y servicios son excelentes."',
-    "reference4-cite": "- Analista, Analista de Tecnología",
+    "reference4-cite": "- Analista de Tecnología",
     "reference5-text":
       '"Hemos tenido solo experiencias positivas con H2O Systems. Sus sistemas de tratamiento de agua son confiables y eficientes."',
-    "reference5-cite": "- Eva Kovačičová, Usuario doméstico",
+    "reference5-cite": "- Eva Kovačičová",
     "footer-prava": "© 2024 H2O Systems. Todos los derechos reservados.",
     author:
       '<p data-translate="author">Sitio web creado por <a href="https://www.jaroslav.website/" style="text-decoration: underline;" target="_blank">Jaroslav Barabáš</a></p>',
@@ -512,6 +512,7 @@ document.addEventListener("DOMContentLoaded", () => {
       items.classList.add("select-hide");
 
       updateLanguage(value);
+      window.location.reload();
 
       localStorage.setItem("language", value);
     });
@@ -546,6 +547,7 @@ document.addEventListener("DOMContentLoaded", () => {
       selected.innerHTML = `<img src="${imgSrc}" alt="${savedLanguage}">`;
     }
   }
+  
 });
 
 
